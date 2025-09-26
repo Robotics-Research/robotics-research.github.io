@@ -1742,5 +1742,30 @@
       "Computer Vision"
     ],
     "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 65,
+    "title": "Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots",
+    "year": "22 Jul 2025",
+    "summary": "Introduces eight uncertainty and five quality metrics tailored for VLA robot controllers, showing through 908 manipulation trials that several measures align with expert judgments and distinguish low-quality executions beyond simple success rates.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2507.17049"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2507.17049"
+      }
+    ],
+    "tags": [
+      "Vision-Language Action",
+      "Uncertainty Estimation",
+      "Robotics Evaluation",
+      "Task Quality"
+    ],
+    "last_reviewed": "24 Sep 2025"
   }
 ]
