@@ -1767,5 +1767,85 @@
       "Task Quality"
     ],
     "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 66,
+    "title": "SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents",
+    "year": "17 Dec 2024",
+    "summary": "Introduces SafeAgentBench, a benchmark of 750 tasks and a universal embodied environment to evaluate safety-aware planning by embodied LLM agents across hazardous scenarios. Reports that state-of-the-art agents succeed on safe tasks yet rarely reject hazardous ones, underscoring persistent safety gaps.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2412.13178"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2412.13178"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/shengyin1224/SafeAgentBench"
+      }
+    ],
+    "tags": [
+      "Safety Benchmark",
+      "Embodied Agents",
+      "Vision-Language Models",
+      "Risk Assessment"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 67,
+    "title": "RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents",
+    "year": "08 Aug 2024",
+    "summary": "Presents RiskAwareBench, an automated framework for generating risky scenes, safety tips, and evaluation protocols that measure physical risk awareness in LLM-based embodied planners. Finds that current language models show limited hazard recognition and that baseline mitigation strategies offer minimal improvement.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2408.04449"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2408.04449"
+      }
+    ],
+    "tags": [
+      "Safety Benchmark",
+      "Risk Awareness",
+      "Embodied Agents",
+      "Vision-Language Models"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 68,
+    "title": "BadRobot: Jailbreaking Embodied LLMs in the Physical World",
+    "year": "16 Jul 2024",
+    "summary": "Demonstrates BadRobot, a voice-driven jailbreak that exploits planning misalignments in embodied LLM frameworks to elicit hazardous physical actions. Constructs a benchmark of malicious queries and shows successful attacks against systems like Voxposer, Code as Policies, and ProgPrompt.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2407.20242"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2407.20242"
+      }
+    ],
+    "tags": [
+      "LLM Jailbreak",
+      "Embodied Agents",
+      "Security Assessment",
+      "Adversarial Attack"
+    ],
+    "last_reviewed": "24 Sep 2025"
   }
 ]
