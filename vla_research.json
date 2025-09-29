@@ -1877,5 +1877,35 @@
       "Foundation Models"
     ],
     "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 70,
+    "title": "HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments",
+    "year": "23 Jan 2024",
+    "summary": "Presents the HAZARD benchmark of disaster-themed virtual scenarios that stress-test how embodied agents using reinforcement learning, search, or LLM-based planning adapt to rapidly changing environments and unexpected hazards.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2401.12975"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2401.12975"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://vis-www.cs.umass.edu/hazard/"
+      }
+    ],
+    "tags": [
+      "Safety Benchmark",
+      "Embodied Agents",
+      "Dynamic Environments",
+      "Disaster Response"
+    ],
+    "last_reviewed": "24 Sep 2025"
   }
 ]
