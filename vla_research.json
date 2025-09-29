@@ -1847,5 +1847,35 @@
       "Adversarial Attack"
     ],
     "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 69,
+    "title": "Generating Robot Constitutions & Benchmarks for Semantic Safety",
+    "year": "11 Mar 2025",
+    "summary": "Introduces the ASIMOV Benchmark to stress-test semantic safety in foundation-model robot controllers and presents an auto-amending pipeline that derives robot constitutions from real-world injury data, boosting rejection of unsafe actions via Constitutional AI.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2503.08663v1"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2503.08663v1"
+      },
+      {
+        "type": "website",
+        "title": "ASIMOV Benchmark",
+        "url": "https://asimov-benchmark.github.io"
+      }
+    ],
+    "tags": [
+      "Semantic Safety",
+      "Constitutional AI",
+      "Benchmark",
+      "Foundation Models"
+    ],
+    "last_reviewed": "24 Sep 2025"
   }
 ]
