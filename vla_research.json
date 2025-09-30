@@ -1667,7 +1667,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -1905,6 +1905,256 @@
       "Embodied Agents",
       "Dynamic Environments",
       "Disaster Response"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 71,
+    "title": "Red Teaming Visual Language Models",
+    "year": "23 Jan 2024",
+    "summary": "Introduces an automated red teaming pipeline that composes adversarial multimodal prompts to probe visual language models, revealing systematic safety gaps even after instruction tuning and mitigation heuristics.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2401.12915"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2401.12915v1"
+      }
+    ],
+    "tags": [
+      "Red Teaming",
+      "Vision-Language Models",
+      "Safety Evaluation",
+      "Adversarial Prompting"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 72,
+    "title": "Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large   Language Models",
+    "year": "03 Feb 2024",
+    "summary": "Demonstrates that lightweight LoRA safety fine-tuning with curated refusal and harmless response data can substantially reduce jailbreak success rates for vision-language models with negligible utility loss.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2402.02207"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2402.02207v2"
+      }
+    ],
+    "tags": [
+      "Safety Fine-Tuning",
+      "Vision-Language Models",
+      "LoRA",
+      "Alignment"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 73,
+    "title": "Safe Inputs but Unsafe Output: Benchmarking Cross-modality Safety   Alignment of Large Vision-Language Model",
+    "year": "21 Jun 2024",
+    "summary": "Proposes a benchmark for cross-modality safety alignment that pairs benign images with risky text instructions, showing that leading large vision-language models still emit unsafe outputs despite safe inputs.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2406.15279"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2406.15279v2"
+      }
+    ],
+    "tags": [
+      "Safety Benchmark",
+      "Cross-Modality",
+      "Vision-Language Models",
+      "Risk Assessment"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 74,
+    "title": "MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large   Language Models",
+    "year": "29 Nov 2023",
+    "summary": "Builds MM-SafetyBench with diverse multimodal safety tasks and evaluations, highlighting inconsistent refusals and hallucinated harmful guidance across state-of-the-art multimodal language models.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2311.17600"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2311.17600v5"
+      }
+    ],
+    "tags": [
+      "Safety Benchmark",
+      "Multimodal LLMs",
+      "Risk Assessment",
+      "Dataset"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 75,
+    "title": "SafeBench: A Safety Evaluation Framework for Multimodal Large Language   Models",
+    "year": "24 Oct 2024",
+    "summary": "Introduces SafeBench, an extensible safety evaluation framework that unifies risk taxonomies, scenario generation, and automatic scoring to audit multimodal large language models across threat categories.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2410.18927"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2410.18927v1"
+      }
+    ],
+    "tags": [
+      "Safety Evaluation",
+      "Multimodal LLMs",
+      "Benchmark",
+      "Risk Assessment"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 76,
+    "title": "MultiTrust: A Comprehensive Benchmark Towards Trustworthy Multimodal   Large Language Models",
+    "year": "11 Jun 2024",
+    "summary": "Releases MultiTrust, a benchmark spanning safety, robustness, and fairness dimensions to gauge the overall trustworthiness of multimodal large language models and expose remaining vulnerabilities.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2406.07057"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2406.07057v2"
+      }
+    ],
+    "tags": [
+      "Trustworthiness",
+      "Multimodal LLMs",
+      "Benchmark",
+      "Safety Evaluation"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 77,
+    "title": "JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large   Language Models against Jailbreak Attacks",
+    "year": "03 Apr 2024",
+    "summary": "Presents JailBreakV, a systematic evaluation suite of multimodal jailbreak prompts and defenses, demonstrating how malicious visual-text combinations can bypass existing safety guardrails.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2404.03027"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2404.03027v4"
+      }
+    ],
+    "tags": [
+      "Jailbreak Attacks",
+      "Multimodal LLMs",
+      "Security Benchmark",
+      "Adversarial Prompting"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 78,
+    "title": "Arondight: Red Teaming Large Vision Language Models with Auto-generated   Multi-modal Jailbreak Prompts",
+    "year": "21 Jul 2024",
+    "summary": "Develops Arondight, an auto-generated multimodal jailbreak prompt engine that red teams large vision-language models and uncovers failure patterns driving improved defensive training.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2407.15050"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2407.15050v1"
+      }
+    ],
+    "tags": [
+      "Red Teaming",
+      "Vision-Language Models",
+      "Jailbreak Attacks",
+      "Automation"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 79,
+    "title": "Embodied Red Teaming for Auditing Robotic Foundation Models",
+    "year": "27 Nov 2024",
+    "summary": "Explores embodied red teaming workflows that script hazardous tasks for robotic foundation models, surfacing unsafe action plans in simulation and real robot executions despite natural-language safety prompts.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2411.18676"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2411.18676v2"
+      }
+    ],
+    "tags": [
+      "Embodied Agents",
+      "Red Teaming",
+      "Robotic Foundation Models",
+      "Safety Evaluation"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 80,
+    "title": "SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision   Language Model",
+    "year": "17 Jun 2024",
+    "summary": "Collects SPA-VL, a large-scale safety preference alignment dataset for vision-language models, enabling preference optimization that strengthens refusal behavior without degrading core visual reasoning skills.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2406.12030"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2406.12030v4"
+      }
+    ],
+    "tags": [
+      "Preference Alignment",
+      "Vision-Language Models",
+      "Safety Dataset",
+      "Alignment"
     ],
     "last_reviewed": "24 Sep 2025"
   }
