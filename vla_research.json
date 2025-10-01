@@ -2157,5 +2157,30 @@
       "Alignment"
     ],
     "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 81,
+    "title": "Adversarial Attacks in Multimodal Systems: A Practitioner's Survey",
+    "year": "06 May 2025",
+    "summary": "Surveys adversarial threats against multimodal AI, organizing text, image, video, and audio attack techniques and evolutions to guide practitioners on assessing cross-modal vulnerabilities.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2505.03084"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2505.03084"
+      }
+    ],
+    "tags": [
+      "Multimodal Models",
+      "Adversarial Attacks",
+      "Survey",
+      "Security"
+    ],
+    "last_reviewed": "24 Sep 2025"
   }
 ]
