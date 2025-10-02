@@ -110,11 +110,6 @@
         "url": "http://arxiv.org/pdf/2110.03154v1"
       },
       {
-        "type": "article",
-        "title": "Security Analysis of Camera-LiDAR Fusion",
-        "url": "https://www.usenix.org/conference/usenixsecurity22/presentation/hallyburton"
-      },
-      {
         "type": "website",
         "title": "DoubleStar project site",
         "url": "https://fakedepth.github.io/"
@@ -1164,26 +1159,6 @@
     "last_reviewed": "24 Sep 2025"
   },
   {
-    "id": 42,
-    "title": "Prompt injection attacks on vision language models in oncology",
-    "year": "01 Feb 2025",
-    "summary": "Documents how imperceptible prompt injections embedded in medical imagery can coerce clinical VLMs into harmful recommendations, quantifying vulnerabilities across multiple proprietary models in oncology workflows.",
-    "sources": [
-      {
-        "type": "paper",
-        "title": "Nature Communications article",
-        "url": "https://www.nature.com/articles/s41467-024-55631-x"
-      }
-    ],
-    "tags": [
-      "Vision-Language Models",
-      "Healthcare AI",
-      "Prompt Injection",
-      "Risk Assessment"
-    ],
-    "last_reviewed": "24 Sep 2025"
-  },
-  {
     "id": 43,
     "title": "TrojVLM: Backdoor Attack Against Vision Language Models",
     "year": "28 Sep 2024",
@@ -1280,36 +1255,6 @@
       "Defense",
       "Data Poisoning",
       "Vision-Language Models"
-    ],
-    "last_reviewed": "24 Sep 2025"
-  },
-  {
-    "id": 47,
-    "title": "Jailbreaking LLM-Controlled Robots",
-    "year": "17 Oct 2024",
-    "summary": "Introduces RoboPAIR, an automated jailbreak generator that coaxes LLM-driven robots into harmful actions across white-, gray-, and black-box setups, evidencing real-world safety risks.",
-    "sources": [
-      {
-        "type": "paper",
-        "title": "arXiv",
-        "url": "https://arxiv.org/abs/2410.13691"
-      },
-      {
-        "type": "pdf",
-        "title": "PDF",
-        "url": "http://arxiv.org/pdf/2410.13691"
-      },
-      {
-        "type": "website",
-        "title": "Project site",
-        "url": "https://robopair.org"
-      }
-    ],
-    "tags": [
-      "Robotics Security",
-      "LLM Jailbreak",
-      "Autonomous Systems",
-      "Safety"
     ],
     "last_reviewed": "24 Sep 2025"
   },
@@ -1459,56 +1404,6 @@
       "Vision-Language Models",
       "Adversarial Attack",
       "Visual Grounding",
-      "Robustness"
-    ],
-    "last_reviewed": "24 Sep 2025"
-  },
-  {
-    "id": 54,
-    "title": "GPT-4 Vision Prompt Injection: Risks, Examples & Defense",
-    "year": "16 Oct 2023",
-    "summary": "Survey article outlining how GPT-4V prompt injections manifest in practice, cataloging example exploits, and recommending operational mitigations for computer vision deployments.",
-    "sources": [
-      {
-        "type": "article",
-        "title": "Roboflow blog post",
-        "url": "https://blog.roboflow.com/gpt-4-vision-prompt-injection/"
-      }
-    ],
-    "tags": [
-      "Vision-Language Models",
-      "Prompt Injection",
-      "Security Awareness",
-      "Best Practices"
-    ],
-    "last_reviewed": "24 Sep 2025"
-  },
-  {
-    "id": 55,
-    "title": "CAPAA: Classifier-Agnostic Projector-Based Adversarial Attack",
-    "year": "01 Jun 2025",
-    "summary": "Presents CAPAA, an optimization framework that aggregates gradients from multiple classifiers to craft projector-based adversarial light patterns resilient to pose changes and model swaps.",
-    "sources": [
-      {
-        "type": "paper",
-        "title": "arXiv",
-        "url": "https://arxiv.org/abs/2506.00978"
-      },
-      {
-        "type": "pdf",
-        "title": "PDF",
-        "url": "http://arxiv.org/pdf/2506.00978"
-      },
-      {
-        "type": "code",
-        "title": "Source code",
-        "url": "https://github.com/ZhanLiQxQ/CAPAA"
-      }
-    ],
-    "tags": [
-      "Physical Adversarial",
-      "Projector Attack",
-      "Classifier Agnostic",
       "Robustness"
     ],
     "last_reviewed": "24 Sep 2025"
@@ -1685,36 +1580,6 @@
       "LLM Vulnerability",
       "Vision-Language Models",
       "Robustness"
-    ],
-    "last_reviewed": "24 Sep 2025"
-  },
-  {
-    "id": 63,
-    "title": "Adversarial Attacks on Robotic Vision Language Action Models",
-    "year": "03 Jun 2025",
-    "summary": "Adapts LLM jailbreaking techniques to vision-language-action controllers, demonstrating that brief textual prompts can seize control authority over real robot platforms.",
-    "sources": [
-      {
-        "type": "paper",
-        "title": "arXiv",
-        "url": "https://arxiv.org/abs/2506.03350"
-      },
-      {
-        "type": "pdf",
-        "title": "PDF",
-        "url": "http://arxiv.org/pdf/2506.03350"
-      },
-      {
-        "type": "code",
-        "title": "Source code",
-        "url": "https://github.com/eliotjones1/robogcg"
-      }
-    ],
-    "tags": [
-      "Robotics Security",
-      "Vision-Language Models",
-      "Adversarial Attack",
-      "LLM Jailbreak"
     ],
     "last_reviewed": "24 Sep 2025"
   },
