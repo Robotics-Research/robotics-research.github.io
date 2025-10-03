@@ -2047,5 +2047,30 @@
       "Security"
     ],
     "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 82,
+    "title": "Inducing Dyslexia in Vision Language Models",
+    "year": "29 Sep 2025",
+    "summary": "Simulates dyslexia in vision-language models by ablating visual-word-form-selective units, reproducing human-like reading impairments while preserving broader multimodal comprehension.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2509.24597"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2509.24597"
+      }
+    ],
+    "tags": [
+      "Vision-Language Models",
+      "Neuroscience",
+      "Reading Disorders",
+      "Model Ablation"
+    ],
+    "last_reviewed": "24 Sep 2025"
   }
 ]
