@@ -2072,5 +2072,30 @@
       "Model Ablation"
     ],
     "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 83,
+    "title": "LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models",
+    "year": "17 Jul 2024",
+    "summary": "Introduces LMMS-EVAL, a standardized benchmark spanning 50+ multimodal tasks and 10+ models, and complements it with LMMS-EVAL LITE and LiveBench to balance coverage, cost, and contamination in LMM evaluation.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2407.12772"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2407.12772"
+      }
+    ],
+    "tags": [
+      "Vision-Language Models",
+      "Benchmark",
+      "Evaluation",
+      "Multimodal"
+    ],
+    "last_reviewed": "24 Sep 2025"
   }
 ]
