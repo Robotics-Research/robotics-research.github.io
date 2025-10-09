@@ -2097,5 +2097,25 @@
       "Multimodal"
     ],
     "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 84,
+    "title": "BEHAVIOR Benchmark and Challenge",
+    "year": "09 Oct 2025",
+    "summary": "Official site for Stanford's BEHAVIOR benchmark, aggregating BEHAVIOR-1K's long-horizon household task dataset, OmniGibson simulator resources, documentation, and the 2025 challenge hub for embodied AI research.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "BEHAVIOR",
+        "url": "https://behavior.stanford.edu"
+      }
+    ],
+    "tags": [
+      "Embodied AI",
+      "Household Tasks",
+      "Simulation Benchmark",
+      "Robotic Manipulation"
+    ],
+    "last_reviewed": "09 Oct 2025"
   }
 ]
