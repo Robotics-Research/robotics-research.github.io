@@ -2117,5 +2117,30 @@
       "Robotic Manipulation"
     ],
     "last_reviewed": "09 Oct 2025"
+  },
+  {
+    "id": 85,
+    "title": "Hidden in plain sight: VLMs overlook their visual representations",
+    "year": "09 Jun 2025",
+    "summary": "Shows that open-source vision-language models underperform their visual encoders on vision-centric tasks, tracing failures to the language component that neglects accessible visual information and inherits strong language priors.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2506.08008"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2506.08008"
+      }
+    ],
+    "tags": [
+      "Vision-Language Models",
+      "Representation Analysis",
+      "Benchmark",
+      "Evaluation"
+    ],
+    "last_reviewed": "09 Jun 2025"
   }
 ]
