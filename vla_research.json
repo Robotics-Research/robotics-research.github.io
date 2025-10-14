@@ -2142,5 +2142,25 @@
       "Evaluation"
     ],
     "last_reviewed": "09 Jun 2025"
+  },
+  {
+    "id": 86,
+    "title": "State of Vision-Language-Action (VLA) Research at ICLR 2026",
+    "year": "10 Oct 2025",
+    "summary": "Synthesizes 164 ICLR 2026 VLA submissions, spotlighting discrete diffusion agents, embodied reasoning pipelines, tokenizer innovations, efficiency pushes, and evaluation work while explaining how to interpret benchmark reports and the remaining gap between frontier and academic labs.",
+    "sources": [
+      {
+        "type": "article",
+        "title": "Moritz Reuss Blog",
+        "url": "https://mbreuss.github.io/blog_post_iclr_26_vla.html"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Survey",
+      "Benchmark",
+      "Embodied AI"
+    ],
+    "last_reviewed": "10 Oct 2025"
   }
 ]
