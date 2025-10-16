@@ -2162,5 +2162,30 @@
       "Embodied AI"
     ],
     "last_reviewed": "10 Oct 2025"
+  },
+  {
+    "id": 87,
+    "title": "SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning",
+    "year": "05 Mar 2025",
+    "summary": "Introduces SafeVLA, an integrated safety alignment pipeline that elicits unsafe behaviors, optimizes VLAs with constrained reinforcement learning, and validates them through targeted evaluations to deliver large safety gains without sacrificing task performance.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2503.03480"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2503.03480"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Safety",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "last_reviewed": "05 Mar 2025"
   }
 ]
