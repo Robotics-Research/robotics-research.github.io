@@ -2187,5 +2187,30 @@
       "Robotics"
     ],
     "last_reviewed": "05 Mar 2025"
+  },
+  {
+    "id": 88,
+    "title": "Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation",
+    "year": "09 Oct 2025",
+    "summary": "Releases Humanoid Everyday, a 10.3k-trajectory multimodal humanoid manipulation dataset spanning 260 tasks across seven categories, collected via human-supervised teleoperation, and pairs it with policy benchmarks plus a cloud platform for standardized evaluation.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.08807"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.08807"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Dataset",
+      "Multimodal",
+      "Teleoperation"
+    ],
+    "last_reviewed": "09 Oct 2025"
   }
 ]
