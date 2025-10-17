@@ -2162,5 +2162,30 @@
       "Embodied AI"
     ],
     "last_reviewed": "10 Oct 2025"
+  },
+  {
+    "id": 87,
+    "title": "Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation",
+    "year": "09 Oct 2025",
+    "summary": "Releases Humanoid Everyday, a 10.3k-trajectory multimodal dataset spanning 260 humanoid tasks with language annotations, covering dextrous manipulation, human interaction, and locomotion, plus a cloud evaluation platform benchmarking policy learning baselines.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.08807"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.08807"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Dataset",
+      "Manipulation",
+      "Embodied AI"
+    ],
+    "last_reviewed": "16 Oct 2025"
   }
 ]
