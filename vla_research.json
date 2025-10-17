@@ -2212,5 +2212,30 @@
       "Teleoperation"
     ],
     "last_reviewed": "09 Oct 2025"
+  },
+  {
+    "id": 89,
+    "title": "Robot Learning: A Tutorial",
+    "year": "14 Oct 2025",
+    "summary": "Guides researchers through the modern robot learning landscape, connecting foundational reinforcement and imitation learning to generalist, language-conditioned policies and providing practical tooling via the Hugging Face LeRobot library.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.12403"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.12403"
+      }
+    ],
+    "tags": [
+      "Robot Learning",
+      "Tutorial",
+      "Reinforcement Learning",
+      "Imitation Learning"
+    ],
+    "last_reviewed": "14 Oct 2025"
   }
 ]
