@@ -2237,5 +2237,30 @@
       "Imitation Learning"
     ],
     "last_reviewed": "14 Oct 2025"
+  },
+  {
+    "id": 90,
+    "title": "Pure Vision Language Action (VLA) Models: A Comprehensive Survey",
+    "year": "23 Sep 2025",
+    "summary": "Surveys over three hundred pure VLA models, organizing them into autoregressive, diffusion, reinforcement, hybrid, and specialized paradigms while detailing datasets, benchmarks, and open challenges for generalizable robotic agents.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2509.19012"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2509.19012"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Survey",
+      "Benchmark",
+      "Robotics"
+    ],
+    "last_reviewed": "23 Sep 2025"
   }
 ]
