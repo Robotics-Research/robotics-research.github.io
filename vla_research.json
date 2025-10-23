@@ -2262,5 +2262,140 @@
       "Robotics"
     ],
     "last_reviewed": "23 Sep 2025"
+  },
+  {
+    "id": 91,
+    "title": "FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models",
+    "year": "24 Sep 2025",
+    "summary": "Introduces FreezeVLA, a min-max optimized adversarial image attack that disconnects VLA policies from their actions, freezing robots across three models and four benchmarks with 76.2% average success and highlighting urgent safety risks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2509.19870"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2509.19870"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Adversarial Attack",
+      "Robotic Control",
+      "Safety"
+    ],
+    "last_reviewed": "24 Sep 2025"
+  },
+  {
+    "id": 92,
+    "title": "Model-agnostic Adversarial Attack and Defense for Vision-Language-Action Models",
+    "year": "15 Oct 2025",
+    "summary": "Proposes the model-agnostic Embedding Disruption Patch Attack that breaks visual-text alignment in VLAs and a robustness-oriented encoder fine-tuning defense, showing large performance drops and recovery on LIBERO benchmarks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.13237"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.13237"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://edpa-attack.github.io/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Adversarial Patch",
+      "Robustness",
+      "Defense"
+    ],
+    "last_reviewed": "15 Oct 2025"
+  },
+  {
+    "id": 93,
+    "title": "Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects",
+    "year": "10 Oct 2025",
+    "summary": "Demonstrates GoBA, a physical trigger backdoor pipeline that plants goal-conditioned behaviors into VLAs through dataset poisoning, achieving 97% backdoor success on LIBERO while maintaining clean-task performance and introducing the BadLIBERO benchmark.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.09269"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.09269"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://goba-attack.github.io/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Backdoor Attack",
+      "Physical Adversarial",
+      "Robotic Manipulation"
+    ],
+    "last_reviewed": "10 Oct 2025"
+  },
+  {
+    "id": 94,
+    "title": "TabVLA: Targeted Backdoor Attacks on Vision-Language-Action Models",
+    "year": "13 Oct 2025",
+    "summary": "Introduces TabVLA, a black-box targeted backdoor framework that poisons VLA vision streams under realistic inference-time threat models, revealing minimal data requirements, robustness to trigger designs, and partial defenses via latent trigger detection.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.10932"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.10932"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Backdoor Attack",
+      "Targeted Attack",
+      "Safety"
+    ],
+    "last_reviewed": "13 Oct 2025"
+  },
+  {
+    "id": 95,
+    "title": "Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations",
+    "year": "23 Sep 2025",
+    "summary": "Presents the Eva-VLA framework that casts object transformations, lighting shifts, and adversarial patches as continuous search problems, uncovering over 60% failure rates for OpenVLA agents and exposing deployment gaps under physical variability.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2509.18953"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2509.18953"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robustness",
+      "Benchmark",
+      "Physical Adversarial"
+    ],
+    "last_reviewed": "23 Sep 2025"
   }
 ]
