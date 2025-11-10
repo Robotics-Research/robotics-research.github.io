@@ -2397,5 +2397,30 @@
       "Physical Adversarial"
     ],
     "last_reviewed": "23 Sep 2025"
+  },
+  {
+    "id": 96,
+    "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions",
+    "year": "16 Oct 2025",
+    "summary": "Benchmarks state-of-the-art language and vision-language models on human-robot interaction tasks covering discrimination, violence, and unlawful conduct, finding widespread unsafe behaviors and highlighting the need for structured risk assessments before deployment.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "SpringerLink",
+        "url": "https://link.springer.com/article/10.1007/s12369-025-01301-x"
+      },
+      {
+        "type": "code",
+        "title": "GitHub",
+        "url": "https://github.com/rumaisa-azeem/llm-robots-discrimination-safety"
+      }
+    ],
+    "tags": [
+      "Safety",
+      "Safety Evaluation",
+      "Risk Assessment",
+      "Human-Computer Interaction"
+    ],
+    "last_reviewed": "16 Oct 2025"
   }
 ]
