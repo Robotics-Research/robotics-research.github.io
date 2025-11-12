@@ -2422,5 +2422,35 @@
       "Human-Computer Interaction"
     ],
     "last_reviewed": "16 Oct 2025"
+  },
+  {
+    "id": 97,
+    "title": "From Demonstrations to Safe Deployment: Path-Consistent Safety Filtering for Diffusion Policies",
+    "year": "09 Nov 2025",
+    "summary": "Introduces PACS, a path-consistent safety filter that performs braking along diffusion policy trajectories to preserve demonstration-consistent actions while verifying safety with set-based reachability, enabling real-time deployment that outperforms reactive baselines on dynamic human-robot interaction tasks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2511.06385"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2511.06385"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://tum-lsy.github.io/pacs/"
+      }
+    ],
+    "tags": [
+      "Safety",
+      "Diffusion Policy",
+      "Robotic Manipulation",
+      "Human-Robot Interaction"
+    ],
+    "last_reviewed": "09 Nov 2025"
   }
 ]
