@@ -2452,5 +2452,35 @@
       "Human-Robot Interaction"
     ],
     "last_reviewed": "09 Nov 2025"
+  },
+  {
+    "id": 98,
+    "title": "Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization",
+    "year": "29 Oct 2025",
+    "summary": "Diagnoses how action fine-tuning erodes inherited visual-language representations in VLA models, introduces probing benchmarks that contrast VL and VLA behaviors, and proposes a lightweight alignment method that restores representation quality to improve out-of-distribution generalization.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.25616"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.25616"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://blind-vla-paper.github.io"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Representation Learning",
+      "Out-of-Distribution Generalization",
+      "Transfer Learning"
+    ],
+    "last_reviewed": "30 Oct 2025"
   }
 ]
