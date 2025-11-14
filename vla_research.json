@@ -2482,5 +2482,30 @@
       "Transfer Learning"
     ],
     "last_reviewed": "30 Oct 2025"
+  },
+  {
+    "id": 99,
+    "title": "A Study on Enhancing the Generalization Ability of Visuomotor Policies via Data Augmentation",
+    "year": "13 Nov 2025",
+    "summary": "Automates large-scale trajectory augmentation across manipulators, grippers, and scene layouts to identify which randomization factors most improve visuomotor policy generalization. Demonstrates that diverse visual and physical randomizations significantly boost zero-shot sim-to-real success for low-cost robotic arms.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2511.09932"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2511.09932"
+      }
+    ],
+    "tags": [
+      "Robotic Manipulation",
+      "Imitation Learning",
+      "Data Augmentation",
+      "Sim-to-Real Transfer"
+    ],
+    "last_reviewed": "13 Nov 2025"
   }
 ]
