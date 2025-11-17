@@ -2507,5 +2507,30 @@
       "Sim-to-Real Transfer"
     ],
     "last_reviewed": "13 Nov 2025"
+  },
+  {
+    "id": 100,
+    "title": "A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems",
+    "year": "07 Aug 2024",
+    "summary": "Analyzes how multimodal prompt injection undermines LLM-integrated mobile robots and evaluates defensive prompt strategies that boost attack detection and navigation reliability by about 30% in mission-oriented tasks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2408.03515"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2408.03515"
+      }
+    ],
+    "tags": [
+      "Prompt Injection",
+      "Robotics Security",
+      "LLM Safety",
+      "Navigation"
+    ],
+    "last_reviewed": "07 Aug 2024"
   }
 ]
