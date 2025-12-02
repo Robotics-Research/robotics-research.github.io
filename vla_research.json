@@ -2538,5 +2538,36 @@
       "Unreal Engine"
     ],
     "last_reviewed": "02 Dec 2025"
+  },
+  {
+    "id": 102,
+    "title": "Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer",
+    "year": "30 Nov 2025",
+    "summary": "Introduces DoorMan, a teacher-student bootstrap framework that combines staged-reset exploration and GRPO fine-tuning to train an RGB-only humanoid loco-manipulation policy entirely in simulation, enabling zero-shot door opening across diverse real-world doors and outperforming human teleoperators in completion time.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2512.01061"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2512.01061"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://doorman-humanoid.github.io"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Sim-to-Real Transfer",
+      "Reinforcement Learning",
+      "Loco-Manipulation",
+      "Vision-Based Control"
+    ],
+    "last_reviewed": "02 Dec 2025"
   }
 ]
