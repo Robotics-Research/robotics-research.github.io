@@ -2507,5 +2507,36 @@
       "Navigation"
     ],
     "last_reviewed": "07 Aug 2024"
+  },
+  {
+    "id": 101,
+    "title": "SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds",
+    "year": "01 Dec 2025",
+    "summary": "Introduces SimWorld, an Unreal Engine 5-based simulator that procedurally generates rich physical and social environments for training and evaluating LLM/VLM agents with multimodal observations, language-driven scene editing, and realistic physics.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "White paper",
+        "url": "https://simworld.org/assets/white_paper.pdf"
+      },
+      {
+        "type": "website",
+        "title": "Project site",
+        "url": "https://simworld.org"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/SimWorld-AI/SimWorld"
+      }
+    ],
+    "tags": [
+      "Simulation",
+      "Embodied AI",
+      "LLM Agents",
+      "Vision-Language Models",
+      "Unreal Engine"
+    ],
+    "last_reviewed": "02 Dec 2025"
   }
 ]
