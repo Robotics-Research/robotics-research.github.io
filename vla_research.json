@@ -2569,5 +2569,36 @@
       "Vision-Based Control"
     ],
     "last_reviewed": "02 Dec 2025"
+  },
+  {
+    "id": 103,
+    "title": "X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model",
+    "year": "11 Oct 2025",
+    "summary": "Presents X-VLA, a flow-matching VLA architecture that injects embodiment-specific soft prompts into standard Transformer encoders to unify training across heterogeneous robot datasets. Demonstrates state-of-the-art generalization across six simulation platforms and three real-world robots, spanning dexterous manipulation and rapid cross-embodiment adaptation.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/pdf/2510.10274"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://thu-air-dream.github.io/X-VLA/"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/2toinf/X-VLA"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Embodied AI",
+      "Cross-Embodiment",
+      "Soft Prompt",
+      "Flow Matching"
+    ],
+    "last_reviewed": "04 Dec 2025"
   }
 ]
