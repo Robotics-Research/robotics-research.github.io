@@ -2600,5 +2600,51 @@
       "Flow Matching"
     ],
     "last_reviewed": "04 Dec 2025"
+  },
+  {
+    "id": 104,
+    "title": "VITRA: Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos",
+    "year": "24 Oct 2025",
+    "summary": "Introduces VITRA, a pipeline that converts large-scale egocentric human hand videos into fully aligned VLA training data with automatically generated action segments, language descriptions, and 3D motion. Pretrains a dexterous-hand VLA model on the resulting 1M-episode dataset, enabling strong zero-shot generalization and improved real-robot manipulation after fine-tuning on limited trajectories.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.21571"
+      },
+      {
+        "type": "pdf",
+        "title": "Paper",
+        "url": "https://microsoft.github.io/VITRA/vitra_paper.pdf"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://microsoft.github.io/VITRA"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/microsoft/VITRA"
+      },
+      {
+        "type": "model",
+        "title": "Model",
+        "url": "https://huggingface.co/VITRA-VLA/VITRA-VLA-3B"
+      },
+      {
+        "type": "dataset",
+        "title": "VITRA-1M dataset",
+        "url": "https://huggingface.co/datasets/VITRA-VLA/VITRA-1M"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Dexterous Manipulation",
+      "Egocentric Video",
+      "Pretraining",
+      "Dataset"
+    ],
+    "last_reviewed": "15 Dec 2025"
   }
 ]
