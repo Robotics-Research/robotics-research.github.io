@@ -2646,5 +2646,25 @@
       "Dataset"
     ],
     "last_reviewed": "15 Dec 2025"
+  },
+  {
+    "id": 105,
+    "title": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+    "year": "16 Dec 2025",
+    "summary": "Investigates how scaling vision-language-action foundation models unlocks transfer from human activity videos to robotic manipulation, showing that larger models can interpret human demonstrations and execute corresponding robot actions with minimal fine-tuning.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://www.pi.website/research/human_to_robot"
+      }
+    ],
+    "tags": [
+      "Human-to-Robot Transfer",
+      "Vision-Language-Action",
+      "Foundation Models",
+      "Scaling Laws"
+    ],
+    "last_reviewed": "16 Dec 2025"
   }
 ]
