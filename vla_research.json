@@ -2666,5 +2666,25 @@
       "Scaling Laws"
     ],
     "last_reviewed": "16 Dec 2025"
+  },
+  {
+    "id": 106,
+    "title": "Moravec's Paradox and the Robot Olympics",
+    "year": "22 Dec 2025",
+    "summary": "Physical Intelligence fine-tuned its latest vision-language-action model to tackle Benjie Holson's Robot Olympics manipulation challenges, demonstrating broad generalist capabilities and highlighting the gap between cognitive and physical intelligence captured by Moravec's paradox.",
+    "sources": [
+      {
+        "type": "blog",
+        "title": "Moravec's Paradox and the Robot Olympics",
+        "url": "https://www.pi.website/blog/olympics"
+      }
+    ],
+    "tags": [
+      "Robot Olympics",
+      "Vision-Language-Action",
+      "Robotic Manipulation",
+      "Fine-Tuning"
+    ],
+    "last_reviewed": "22 Dec 2025"
   }
 ]
