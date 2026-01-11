@@ -2686,5 +2686,30 @@
       "Fine-Tuning"
     ],
     "last_reviewed": "22 Dec 2025"
+  },
+  {
+    "id": 107,
+    "title": "Robotic VLA Benefits from Joint Learning with Motion Image Diffusion",
+    "year": "19 Dec 2025",
+    "summary": "Proposes a joint learning strategy that augments vision-language-action models with a diffusion-based motion head to predict optical-flow motion images, improving motion reasoning while keeping standard VLA inference latency and boosting success on LIBERO and RoboTwin benchmarks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2512.18007"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2512.18007"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robotic Manipulation",
+      "Motion Reasoning",
+      "Diffusion"
+    ],
+    "last_reviewed": "19 Dec 2025"
   }
 ]
