@@ -2711,5 +2711,35 @@
       "Diffusion"
     ],
     "last_reviewed": "19 Dec 2025"
+  },
+  {
+    "id": 108,
+    "title": "VLM4VLA: Revisiting Vision-Language Models in Vision-Language-Action Models",
+    "year": "06 Jan 2026",
+    "summary": "Introduces VLM4VLA, a lightweight adaptation pipeline that converts general-purpose vision-language models into VLA policies with a small set of learnable parameters, enabling controlled comparisons of VLM choices while remaining competitive with heavier architectures.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2601.03309"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2601.03309"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://cladernyjorn.github.io/VLM4VLA.github.io/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Vision-Language Models",
+      "Robotic Manipulation",
+      "Policy Learning"
+    ],
+    "last_reviewed": "06 Jan 2026"
   }
 ]
