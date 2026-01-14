@@ -2741,5 +2741,30 @@
       "Policy Learning"
     ],
     "last_reviewed": "06 Jan 2026"
+  },
+  {
+    "id": 109,
+    "title": "Video Generation Models in Robotics - Applications, Research Challenges, Future Directions",
+    "year": "12 Jan 2026",
+    "summary": "Surveys video generation models as embodied world models for robotics, covering applications in data generation, imitation learning, dynamics and reward modeling for reinforcement learning, visual planning, and policy evaluation, while outlining challenges such as instruction following gaps, physics violations, and safety risks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2601.07823"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2601.07823"
+      }
+    ],
+    "tags": [
+      "Survey",
+      "Video Generation",
+      "World Models",
+      "Robotics"
+    ],
+    "last_reviewed": "12 Jan 2026"
   }
 ]
