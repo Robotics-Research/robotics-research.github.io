@@ -2816,5 +2816,35 @@
       "Robotics"
     ],
     "last_reviewed": "20 Sep 2025"
+  },
+  {
+    "id": 112,
+    "title": "mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs",
+    "year": "17 Dec 2025",
+    "summary": "Introduces mimic-video, a video-action model that pairs an internet-scale pretrained video backbone with a flow-matching action decoder to ground robotic control in visual dynamics, improving sample efficiency and convergence on simulated and real-world manipulation tasks compared to standard VLAs.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2512.15692"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2512.15692"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://mimic-video.github.io/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Video-Action Models",
+      "Robotic Manipulation",
+      "Imitation Learning"
+    ],
+    "last_reviewed": "17 Dec 2025"
   }
 ]
