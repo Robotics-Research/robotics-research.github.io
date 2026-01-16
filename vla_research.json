@@ -1537,7 +1537,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -2766,5 +2766,55 @@
       "Robotics"
     ],
     "last_reviewed": "12 Jan 2026"
+  },
+  {
+    "id": 110,
+    "title": "When Robots Obey the Patch: Universal Transferable Patch Attacks on Vision-Language-Action Models",
+    "year": "26 Nov 2025",
+    "summary": "Studies universal, transferable adversarial patch attacks against vision-language-action models, showing patches that generalize across architectures and settings and highlighting black-box safety risks for robotic policies.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2511.21192"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2511.21192"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Adversarial Patch",
+      "Transferable Attack",
+      "Robotic Control"
+    ],
+    "last_reviewed": "26 Nov 2025"
+  },
+  {
+    "id": 111,
+    "title": "ADVEDM: Fine-grained Adversarial Attack against VLM-based Embodied Agents",
+    "year": "20 Sep 2025",
+    "summary": "Introduces ADVEDM, a fine-grained adversarial attack that perturbs visual inputs for VLM-based embodied decision-making agents, degrading planning and action execution in embodied tasks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2509.16645"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2509.16645"
+      }
+    ],
+    "tags": [
+      "Vision-Language Models",
+      "Embodied Agents",
+      "Adversarial Attack",
+      "Robotics"
+    ],
+    "last_reviewed": "20 Sep 2025"
   }
 ]
