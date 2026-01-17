@@ -2846,5 +2846,35 @@
       "Imitation Learning"
     ],
     "last_reviewed": "17 Dec 2025"
+  },
+  {
+    "id": 113,
+    "title": "ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation",
+    "year": "13 Jan 2026",
+    "summary": "ActiveVLA injects active perception into vision-language-action models to enable precise 3D robotic manipulation under occlusions and complex spatial structures.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2601.08325v1"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2601.08325v1"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://zhenyangliu.github.io/ActiveVLA/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Active Perception",
+      "3D Vision",
+      "Robotic Manipulation"
+    ],
+    "last_reviewed": "17 Jan 2026"
   }
 ]
