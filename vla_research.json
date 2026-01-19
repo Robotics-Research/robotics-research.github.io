@@ -2876,5 +2876,30 @@
       "Robotic Manipulation"
     ],
     "last_reviewed": "17 Jan 2026"
+  },
+  {
+    "id": 114,
+    "title": "VLAgents: A Policy Server for Efficient VLA Inference",
+    "year": "16 Jan 2026",
+    "summary": "Introduces VLAgents, a modular policy server that exposes vision-language-action inference through a unified Gymnasium-style protocol and reduces deployment complexity and communication latency in distributed robotics setups.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2601.11250"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2601.11250"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Inference",
+      "Robotic Deployment",
+      "Systems"
+    ],
+    "last_reviewed": "16 Jan 2026"
   }
 ]
