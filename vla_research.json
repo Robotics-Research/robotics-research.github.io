@@ -2901,5 +2901,30 @@
       "Systems"
     ],
     "last_reviewed": "16 Jan 2026"
+  },
+  {
+    "id": 115,
+    "title": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning",
+    "year": "22 Jan 2026",
+    "summary": "Introduces Cosmos Policy, a fine-tuning method that adapts pretrained video generation models into visuomotor policies without multi-stage post-training or additional action modules, enabling control and planning that leverage spatiotemporal priors from video models.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2601.16163"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2601.16163"
+      }
+    ],
+    "tags": [
+      "Video Generation",
+      "Visuomotor Control",
+      "Planning",
+      "Robotic Manipulation"
+    ],
+    "last_reviewed": "22 Jan 2026"
   }
 ]
