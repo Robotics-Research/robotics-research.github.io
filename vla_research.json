@@ -2926,5 +2926,25 @@
       "Robotic Manipulation"
     ],
     "last_reviewed": "22 Jan 2026"
+  },
+  {
+    "id": 116,
+    "title": "Introducing Helix 02: Full-Body Autonomy",
+    "year": "27 Jan 2026",
+    "summary": "Announces Figure's Helix 02, a pixels-to-whole-body autonomy stack that unifies locomotion and manipulation with a single full-body visuomotor policy backed by a learned whole-body controller trained on large-scale human motion data.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Figure AI news release",
+        "url": "https://www.figure.ai/news/helix-02"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Vision-Language-Action",
+      "Loco-Manipulation",
+      "Full-Body Control"
+    ],
+    "last_reviewed": "27 Jan 2026"
   }
 ]
