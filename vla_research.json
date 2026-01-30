@@ -3013,5 +3013,45 @@
       "Benchmark"
     ],
     "last_reviewed": "20 Nov 2025"
+  },
+  {
+    "id": 119,
+    "title": "DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation",
+    "year": "09 Dec 2025",
+    "summary": "DynamicVLA enables open-ended dynamic object manipulation by pairing a compact 0.4B vision-language model with low-latency continuous inference and latent-aware action streaming, evaluated at scale through the new DOM benchmark in simulation and real-world settings.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2601.22153"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2601.22153"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://www.infinitescript.com/project/dynamic-vla/"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/hzxie/DynamicVLA"
+      },
+      {
+        "type": "dataset",
+        "title": "DOM dataset",
+        "url": "https://huggingface.co/datasets/hzxie/DOM"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Dynamic Object Manipulation",
+      "Robotic Manipulation",
+      "Benchmark"
+    ],
+    "last_reviewed": "09 Dec 2025"
   }
 ]
