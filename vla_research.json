@@ -1537,7 +1537,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -2987,5 +2987,31 @@
       "Benchmark"
     ],
     "last_reviewed": "26 Jan 2026"
+  },
+  {
+    "id": 118,
+    "title": "The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks",
+    "year": "20 Nov 2025",
+    "summary": "Introduces the first study of indirect environmental jailbreaks for embodied AI agents, where attackers influence the environment rather than issuing direct prompts, and provides a benchmark to evaluate how VLM-based agents respond to these indirect jailbreaking cues.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2511.16347"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2511.16347"
+      }
+    ],
+    "tags": [
+      "Embodied Agents",
+      "Vision-Language Models",
+      "Jailbreak",
+      "Safety",
+      "Benchmark"
+    ],
+    "last_reviewed": "20 Nov 2025"
   }
 ]
