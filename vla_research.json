@@ -3053,5 +3053,24 @@
       "Benchmark"
     ],
     "last_reviewed": "09 Dec 2025"
+  },
+  {
+    "id": 120,
+    "title": "Vision Encoders in Vision-Language Models: A Survey",
+    "year": "05 Jan 2026",
+    "summary": "Surveys vision encoders across 70+ vision-language models and finds training methodology, data curation, and feature objectives matter more than encoder size, while native resolution handling and multi-encoder fusion improve document understanding and feature coverage.",
+    "sources": [
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://jina.ai/vision-encoder-survey.pdf"
+      }
+    ],
+    "tags": [
+      "Survey",
+      "Vision Encoders",
+      "Vision-Language Models"
+    ],
+    "last_reviewed": "31 Jan 2026"
   }
 ]
