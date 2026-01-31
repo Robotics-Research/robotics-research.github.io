@@ -3072,5 +3072,40 @@
       "Vision-Language Models"
     ],
     "last_reviewed": "31 Jan 2026"
+  },
+  {
+    "id": 121,
+    "title": "UnifoLM-VLA-0: A Vision-Language-Action (VLA) Framework under UnifoLM Family",
+    "year": "29 Jan 2026",
+    "summary": "UnifoLM-VLA-0 is a vision-language-action model in the UnifoLM series for general-purpose humanoid robot manipulation, with continued pre-training on robot manipulation data to strengthen spatial reasoning and support broad task generalization in real-robot settings.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://unigen-x.github.io/unifolm-vla.github.io"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/unitreerobotics/unifolm-vla"
+      },
+      {
+        "type": "model",
+        "title": "Model collection",
+        "url": "https://huggingface.co/collections/unitreerobotics/unifolm-wma-0-68ca23027310c0ca0f34959c"
+      },
+      {
+        "type": "dataset",
+        "title": "Datasets",
+        "url": "https://huggingface.co/unitreerobotics/datasets"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Humanoid Robotics",
+      "Robotic Manipulation",
+      "Foundation Model"
+    ],
+    "last_reviewed": "29 Jan 2026"
   }
 ]
