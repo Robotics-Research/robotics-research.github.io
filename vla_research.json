@@ -1537,7 +1537,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -3107,5 +3107,41 @@
       "Foundation Model"
     ],
     "last_reviewed": "29 Jan 2026"
+  },
+  {
+    "id": 122,
+    "title": "ACG: Action Coherence Guidance for Flow-based VLA models",
+    "year": "25 Oct 2025",
+    "summary": "Introduces Action Coherence Guidance (ACG), a training-free test-time guidance method for flow-matching Vision-Language-Action policies that improves action coherence by steering sampling away from incoherent action generation, boosting stability and success rates across RoboCasa, DexMimicGen, and real-world SO-101 manipulation tasks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2510.22201"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.22201"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://davian-robotics.github.io/ACG/"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/davian-robotics/ACG"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Flow Matching",
+      "Action Coherence",
+      "Robot Manipulation",
+      "Test-Time Guidance"
+    ],
+    "last_reviewed": "25 Oct 2025"
   }
 ]
