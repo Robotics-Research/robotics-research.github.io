@@ -1537,7 +1537,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -3143,5 +3143,25 @@
       "Test-Time Guidance"
     ],
     "last_reviewed": "25 Oct 2025"
+  },
+  {
+    "id": 123,
+    "title": "Humanity's Last Machine",
+    "year": "03 Feb 2026",
+    "summary": "Interactive resource cataloging humanoid robotics hardware components, supplier landscape, and related ecosystem context for tracking progress in humanoid robotics.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Humanity's Last Machine",
+        "url": "https://www.humanityslastmachine.com/"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Hardware",
+      "Landscape",
+      "Resource"
+    ],
+    "last_reviewed": "03 Feb 2026"
   }
 ]
