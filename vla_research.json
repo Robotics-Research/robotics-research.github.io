@@ -3163,5 +3163,31 @@
       "Resource"
     ],
     "last_reviewed": "03 Feb 2026"
+  },
+  {
+    "id": 124,
+    "title": "HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos",
+    "year": "02 Feb 2026",
+    "summary": "Introduces HumanX, a full-stack framework that turns human videos into diverse robot interaction data and trains generalizable humanoid skills without task-specific rewards, demonstrating zero-shot transfer of 10 interaction skills to a physical Unitree G1 across sports and cargo tasks.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.02473"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.02473"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Imitation Learning",
+      "Human Video",
+      "Interaction Skills",
+      "Data Generation"
+    ],
+    "last_reviewed": "04 Feb 2026"
   }
 ]
