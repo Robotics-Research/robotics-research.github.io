@@ -3189,5 +3189,35 @@
       "Data Generation"
     ],
     "last_reviewed": "04 Feb 2026"
+  },
+  {
+    "id": 125,
+    "title": "HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control",
+    "year": "05 Feb 2026",
+    "summary": "Presents HUSKY, a learning-based framework for humanoid skateboarding that models humanoid-skateboard coupling and uses physics-aware whole-body control with adversarial motion priors to deliver stable, agile maneuvering on a Unitree G1 platform.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "HUSKY project page",
+        "url": "https://husky-humanoid.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.03205"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.03205"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Whole-Body Control",
+      "Skateboarding",
+      "Physics-Aware Control"
+    ],
+    "last_reviewed": "05 Feb 2026"
   }
 ]
