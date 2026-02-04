@@ -1537,7 +1537,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -3219,5 +3219,41 @@
       "Physics-Aware Control"
     ],
     "last_reviewed": "05 Feb 2026"
+  },
+  {
+    "id": 126,
+    "title": "DreamZero: World Action Models are Zero-shot Policies",
+    "year": "04 Feb 2026",
+    "summary": "Introduces DreamZero, a world action model that pairs a pretrained video diffusion backbone with action prediction to model physical dynamics, enabling zero-shot generalization to new tasks and environments and real-time closed-loop control.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "DreamZero PDF",
+        "url": "https://dreamzero0.github.io/DreamZero.pdf"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://dreamzero0.github.io"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/dreamzero0/dreamzero"
+      },
+      {
+        "type": "website",
+        "title": "Eval gallery",
+        "url": "https://dreamzero0.github.io/evals_gallery"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "World Models",
+      "Zero-shot Generalization",
+      "Video Diffusion",
+      "Robotic Control"
+    ],
+    "last_reviewed": "04 Feb 2026"
   }
 ]
