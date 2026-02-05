@@ -3306,5 +3306,25 @@
       "Robot Manipulation"
     ],
     "last_reviewed": "05 Feb 2026"
+  },
+  {
+    "id": 129,
+    "title": "Predictive Red Team",
+    "year": "05 Feb 2026",
+    "summary": "Project resource for Predictive Red Team, focused on evaluating and stress-testing predictive AI and robotics systems with red-team methodologies.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Predictive Red Team",
+        "url": "https://predictive-red-team.github.io/"
+      }
+    ],
+    "tags": [
+      "AI Safety",
+      "Red Teaming",
+      "Evaluation",
+      "Resource"
+    ],
+    "last_reviewed": "05 Feb 2026"
   }
 ]
