@@ -3275,5 +3275,36 @@
       "Resource"
     ],
     "last_reviewed": "05 Feb 2026"
+  },
+  {
+    "id": 128,
+    "title": "RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization",
+    "year": "03 Feb 2026",
+    "summary": "Presents RDT2, a 7B VLM-based robotic foundation model trained on over 10,000 hours of embodiment-agnostic UMI demonstrations with an RVQ + flow-matching + distillation pipeline, enabling zero-shot transfer across unseen objects, instructions, scenes, and robotic embodiments.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.03310"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.03310"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://rdt-robotics.github.io/rdt2/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Foundation Model",
+      "Cross-Embodiment Generalization",
+      "Zero-shot Transfer",
+      "Robot Manipulation"
+    ],
+    "last_reviewed": "05 Feb 2026"
   }
 ]
