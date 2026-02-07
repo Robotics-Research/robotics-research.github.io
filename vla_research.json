@@ -3326,5 +3326,41 @@
       "Resource"
     ],
     "last_reviewed": "05 Feb 2026"
+  },
+  {
+    "id": 130,
+    "title": "Flow Policy Gradients for Robot Control",
+    "year": "02 Feb 2026",
+    "summary": "Presents flow matching policy gradients for robot control, introducing an improved objective that trains and fine-tunes expressive flow-based policies across locomotion, humanoid motion tracking, and manipulation, with robust sim-to-real transfer on humanoid robots.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://hongsukchoi.github.io/fpo-control/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.02481"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.02481"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/amazon-far/fpo-control"
+      }
+    ],
+    "tags": [
+      "Robot Learning",
+      "Policy Gradients",
+      "Flow Matching",
+      "Humanoid Robotics",
+      "Sim-to-Real Transfer"
+    ],
+    "last_reviewed": "07 Feb 2026"
   }
 ]
