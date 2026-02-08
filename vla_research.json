@@ -3362,5 +3362,42 @@
       "Sim-to-Real Transfer"
     ],
     "last_reviewed": "07 Feb 2026"
+  },
+  {
+    "id": 131,
+    "title": "OAT: Ordered Action Tokenization",
+    "year": "04 Feb 2026",
+    "summary": "Introduces Ordered Action Tokenization (OAT), a learned tokenizer for continuous robot actions that creates causally ordered, fully decodable, high-compression token sequences for autoregressive control, enabling prefix-based anytime inference and strong performance across simulation and real-world tasks.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://ordered-action-tokenization.github.io/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.04215"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.04215"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/Chaoqi-LIU/oat"
+      }
+    ],
+    "tags": [
+      "Robot Learning",
+      "Autoregressive Policies",
+      "Action Tokenization",
+      "Discrete Representations",
+      "Anytime Inference"
+    ],
+    "last_reviewed": "08 Feb 2026"
   }
+
 ]
