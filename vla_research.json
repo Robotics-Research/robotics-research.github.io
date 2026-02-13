@@ -3423,32 +3423,68 @@
     "id": 133,
     "title": "SceneSmith",
     "year": "13 Feb 2026",
-    "summary": "Project page for SceneSmith.",
+    "summary": "SceneSmith introduces a hierarchical multi-agent pipeline that converts natural-language requests into simulation-ready indoor scenes, with controls for object placement, physical plausibility, and robotics evaluation.",
     "sources": [
       {
         "type": "website",
         "title": "Project page",
         "url": "https://scenesmith.github.io/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.09153"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.09153"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/nepfaff/scenesmith"
       }
     ],
     "tags": [
+      "Simulation",
+      "Scene Generation",
+      "Robot Evaluation",
       "Resource"
     ],
     "last_reviewed": "13 Feb 2026"
   },
   {
     "id": 134,
-    "title": "gigabrain05m.github.io",
+    "title": "GigaBrain-0.5M*: A VLA that Learns from World Model-Based Reinforcement Learning",
     "year": "13 Feb 2026",
-    "summary": "Project page hosted at gigabrain05m.github.io.",
+    "summary": "GigaBrain-0.5M* presents a vision-language-action model trained with world model-based reinforcement learning to improve robotic manipulation behavior, and provides paper, code, and model resources.",
     "sources": [
       {
         "type": "website",
         "title": "Project page",
         "url": "https://gigabrain05m.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.12099"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.12099"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/open-gigaai/giga-brain-0"
       }
     ],
     "tags": [
+      "Vision-Language-Action",
+      "Robot Learning",
+      "World Models",
       "Resource"
     ],
     "last_reviewed": "13 Feb 2026"
