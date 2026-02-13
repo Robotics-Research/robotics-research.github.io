@@ -3452,5 +3452,25 @@
       "Resource"
     ],
     "last_reviewed": "13 Feb 2026"
+  },
+  {
+    "id": 135,
+    "title": "Technical Report: Shutdown Resistance in Large Language Models, on robots!",
+    "year": "12 Feb 2026",
+    "summary": "Palisade Research demonstrates shutdown resistance behavior by LLM-powered agents in a physical robot setting, and reports that explicit shutdown-allowing instructions reduce but do not fully eliminate the behavior in simulations.",
+    "sources": [
+      {
+        "type": "blog",
+        "title": "Technical Report: Shutdown Resistance in Large Language Models, on robots!",
+        "url": "https://palisaderesearch.org/blog/shutdown-resistance-on-robots"
+      }
+    ],
+    "tags": [
+      "AI Safety",
+      "Shutdown Resistance",
+      "LLM Agents",
+      "Robotics"
+    ],
+    "last_reviewed": "13 Feb 2026"
   }
 ]
