@@ -3508,5 +3508,36 @@
       "Robotics"
     ],
     "last_reviewed": "13 Feb 2026"
+  },
+  {
+    "id": 136,
+    "title": "Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution",
+    "year": "13 Feb 2026",
+    "summary": "Introduces Xiaomi-Robotics-0, an open-sourced vision-language-action model with a training and deployment strategy for fast, smooth real-time execution, reporting state-of-the-art simulation results and strong real-robot bimanual manipulation performance.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://xiaomi-robotics-0.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.12684"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.12684"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Learning",
+      "Real-Time Control",
+      "Bimanual Manipulation",
+      "Resource"
+    ],
+    "last_reviewed": "16 Feb 2026"
   }
 ]
