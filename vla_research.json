@@ -3356,6 +3356,16 @@
         "type": "website",
         "title": "Veo Robotics",
         "url": "https://veo-robotics.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2512.10675"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2512.10675"
       }
     ],
     "tags": [
@@ -3405,8 +3415,18 @@
     "sources": [
       {
         "type": "website",
-        "title": "Predictive Red Team",
+        "title": "Project page",
         "url": "https://predictive-red-team.github.io/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2502.06575"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2502.06575"
       }
     ],
     "tags": [
@@ -3499,6 +3519,16 @@
         "type": "website",
         "title": "Project page",
         "url": "https://humanoid-manipulation-interface.github.io/#/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.06643"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.06643"
       }
     ],
     "tags": [
