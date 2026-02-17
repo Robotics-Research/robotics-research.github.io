@@ -3833,5 +3833,40 @@
       "Robot Learning"
     ],
     "last_reviewed": "17 Feb 2026"
+  },
+  {
+    "id": 143,
+    "title": "LAP: Language-Action Pre-training Enables Zero-Shot Cross-Embodiment Transfer",
+    "year": "14 Feb 2026",
+    "summary": "Introduces LAP, a language-action pre-training recipe for vision-language-action models that represents low-level robot actions in natural language, enabling strong zero-shot transfer to unseen robot embodiments and improved adaptation efficiency.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://lap-vla.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.10556"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.10556"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/lihzha/lap"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Learning",
+      "Cross-Embodiment Transfer",
+      "Zero-Shot Generalization"
+    ],
+    "last_reviewed": "17 Feb 2026"
   }
 ]
