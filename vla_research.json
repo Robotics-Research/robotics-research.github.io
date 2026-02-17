@@ -173,6 +173,16 @@
         "type": "pdf",
         "title": "USENIX Security 2022 Summer paper",
         "url": "https://www.usenix.org/system/files/sec22summer_yan.pdf"
+      },
+      {
+        "type": "paper",
+        "title": "USENIX Security 2022 presentation",
+        "url": "https://www.usenix.org/conference/usenixsecurity22/presentation/yan"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://www.usenix.org/system/files/sec22-yan.pdf"
       }
     ],
     "tags": [
@@ -933,6 +943,36 @@
         "type": "pdf",
         "title": "PDF",
         "url": "https://www.usenix.org/system/files/sec22-yan.pdf"
+      },
+      {
+        "type": "paper",
+        "title": "Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition",
+        "url": "https://arxiv.org/abs/2204.02675v1"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "http://arxiv.org/pdf/2204.02675v1"
+      },
+      {
+        "type": "slides",
+        "title": "Rolling Colors slides",
+        "url": "https://cyansec.com/files/slides/22SEC_RollingColors-slides.pdf"
+      },
+      {
+        "type": "paper",
+        "title": "Adversarial Laser Spot: Robust and Covert Physical-World Attack to DNNs",
+        "url": "https://proceedings.mlr.press/v189/hu23b.html"
+      },
+      {
+        "type": "pdf",
+        "title": "Adversarial Laser Spot PDF",
+        "url": "https://proceedings.mlr.press/v189/hu23b/hu23b.pdf"
+      },
+      {
+        "type": "pdf",
+        "title": "USENIX Security 2022 Summer paper",
+        "url": "https://www.usenix.org/system/files/sec22summer_yan.pdf"
       }
     ],
     "tags": [
@@ -1123,6 +1163,11 @@
         "type": "pdf",
         "title": "PDF",
         "url": "http://arxiv.org/pdf/2405.10529"
+      },
+      {
+        "type": "openreview",
+        "title": "OpenReview discussion",
+        "url": "https://openreview.net/forum?id=2r8n6kKNEXNa"
       }
     ],
     "tags": [
@@ -1198,6 +1243,16 @@
         "type": "pdf",
         "title": "PDF",
         "url": "http://arxiv.org/pdf/2402.06659"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/umd-huang-lab/VLM-Poisoning"
+      },
+      {
+        "type": "code",
+        "title": "ShadowAttack code",
+        "url": "https://github.com/hncszya/ShadowAttack"
       }
     ],
     "tags": [
@@ -1273,6 +1328,11 @@
         "type": "pdf",
         "title": "PDF",
         "url": "http://arxiv.org/pdf/2411.11683"
+      },
+      {
+        "type": "website",
+        "title": "Reference",
+        "url": "https://trojanrobot.github.io"
       }
     ],
     "tags": [
@@ -1298,6 +1358,11 @@
         "type": "pdf",
         "title": "PDF",
         "url": "http://arxiv.org/pdf/2411.02391"
+      },
+      {
+        "type": "code",
+        "title": "PopupAttack code",
+        "url": "https://github.com/SALT-NLP/PopupAttack"
       }
     ],
     "tags": [
@@ -1373,6 +1438,11 @@
         "type": "pdf",
         "title": "PDF",
         "url": "http://arxiv.org/pdf/2405.09981"
+      },
+      {
+        "type": "openreview",
+        "title": "OpenReview discussion",
+        "url": "https://openreview.net/forum?id=Fz0uYu6bZn"
       }
     ],
     "tags": [
@@ -1398,6 +1468,16 @@
         "type": "pdf",
         "title": "PDF",
         "url": "http://arxiv.org/pdf/2411.13587"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/William-wAng618/roboticAttack"
+      },
+      {
+        "type": "website",
+        "title": "Reference",
+        "url": "https://vlaattacker.github.io/"
       }
     ],
     "tags": [
@@ -1448,6 +1528,11 @@
         "type": "pdf",
         "title": "PDF",
         "url": "http://arxiv.org/pdf/2407.07510"
+      },
+      {
+        "type": "pdf",
+        "title": "GhostStripe MobiSys PDF",
+        "url": "https://tanrui.github.io/pub/GhostStripe-MobiSys.pdf"
       }
     ],
     "tags": [
@@ -1503,6 +1588,11 @@
         "type": "pdf",
         "title": "PDF",
         "url": "http://arxiv.org/pdf/2303.12249"
+      },
+      {
+        "type": "code",
+        "title": "RFLA reflected light attack code",
+        "url": "https://github.com/winterwindwang/RFLA"
       }
     ],
     "tags": [
@@ -1537,7 +1627,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
     "sources": [
       {
         "type": "paper",
