@@ -1537,7 +1537,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -3550,6 +3550,25 @@
         "type": "website",
         "title": "Project page",
         "url": "https://steervla.github.io"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Learning",
+      "Resource"
+    ],
+    "last_reviewed": "17 Feb 2026"
+  },
+  {
+    "id": 138,
+    "title": "VLAW",
+    "year": "17 Feb 2026",
+    "summary": "Project page for VLAW.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://sites.google.com/view/vlaw-arxiv"
       }
     ],
     "tags": [
