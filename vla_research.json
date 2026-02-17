@@ -3542,20 +3542,31 @@
   },
   {
     "id": 137,
-    "title": "SteerVLA",
-    "year": "17 Feb 2026",
-    "summary": "Project page for SteerVLA.",
+    "title": "SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios",
+    "year": "09 Feb 2026",
+    "summary": "Presents SteerVLA, a driving-focused vision-language-action framework that combines high-level semantic reasoning with low-level control to improve robustness in long-tail scenarios such as rare hazards, ambiguous road interactions, and complex multi-agent behavior.",
     "sources": [
       {
         "type": "website",
         "title": "Project page",
         "url": "https://steervla.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.08440"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.08440"
       }
     ],
     "tags": [
       "Vision-Language-Action",
-      "Robot Learning",
-      "Resource"
+      "Autonomous Driving",
+      "Long-Tail Scenarios",
+      "Robustness"
     ],
     "last_reviewed": "17 Feb 2026"
   },
@@ -3563,7 +3574,7 @@
     "id": 138,
     "title": "VLAW",
     "year": "17 Feb 2026",
-    "summary": "Project page for VLAW.",
+    "summary": "Project page for VLAW, a vision-language-action robotics resource focused on model and evaluation material for language-conditioned robot control.",
     "sources": [
       {
         "type": "website",
@@ -3575,6 +3586,56 @@
       "Vision-Language-Action",
       "Robot Learning",
       "Resource"
+    ],
+    "last_reviewed": "17 Feb 2026"
+  },
+  {
+    "id": 139,
+    "title": "World-Gymnast: Training Robots with Reinforcement Learning in a World Model",
+    "year": "02 Feb 2026",
+    "summary": "Introduces World-Gymnast, a framework that uses learned world models as interactive training environments for reinforcement learning, reducing real-world data needs while improving policy optimization for robot manipulation.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.02454"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.02454"
+      }
+    ],
+    "tags": [
+      "World Models",
+      "Reinforcement Learning",
+      "Robot Learning",
+      "Vision-Language-Action"
+    ],
+    "last_reviewed": "17 Feb 2026"
+  },
+  {
+    "id": 140,
+    "title": "WMPO: World Model-based Policy Optimization for Vision-Language-Action Models",
+    "year": "12 Nov 2025",
+    "summary": "Proposes WMPO, a world model-based reinforcement learning method that improves vision-language-action policies by enabling sample-efficient policy optimization and self-correction beyond expert demonstrations.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2511.09515"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2511.09515"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "World Models",
+      "Reinforcement Learning",
+      "Policy Optimization"
     ],
     "last_reviewed": "17 Feb 2026"
   }
