@@ -3697,6 +3697,16 @@
     "summary": "Project page for VLAW, a vision-language-action robotics resource focused on model and evaluation material for language-conditioned robot control.",
     "sources": [
       {
+        "type": "paper",
+        "title": "arXiv paper",
+        "url": "https://arxiv.org/abs/2602.12063"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/Robert-gyj/Ctrl-World"
+      },
+      {
         "type": "website",
         "title": "Project page",
         "url": "https://sites.google.com/view/vlaw-arxiv"
