@@ -3539,5 +3539,24 @@
       "Resource"
     ],
     "last_reviewed": "16 Feb 2026"
+  },
+  {
+    "id": 137,
+    "title": "SteerVLA",
+    "year": "17 Feb 2026",
+    "summary": "Project page for SteerVLA.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://steervla.github.io"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Learning",
+      "Resource"
+    ],
+    "last_reviewed": "17 Feb 2026"
   }
 ]
