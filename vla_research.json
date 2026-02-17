@@ -3638,5 +3638,40 @@
       "Policy Optimization"
     ],
     "last_reviewed": "17 Feb 2026"
+  },
+  {
+    "id": 141,
+    "title": "Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control",
+    "year": "13 Feb 2026",
+    "summary": "Introduces Steerable Policies, vision-language-action models trained with rich synthetic command abstractions (including subtasks, motions, and grounded pixel coordinates) to improve low-level controllability and enable stronger VLM-driven hierarchical robot reasoning and long-horizon generalization.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://steerable-policies.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.13193"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.13193"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/steerable-policies/steerable-policies-bridge"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Hierarchical Control",
+      "Embodied Reasoning",
+      "Robot Learning"
+    ],
+    "last_reviewed": "17 Feb 2026"
   }
 ]
