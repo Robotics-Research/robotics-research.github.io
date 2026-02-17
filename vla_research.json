@@ -1627,7 +1627,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -3800,6 +3800,36 @@
       "Vision-Language-Action",
       "Hierarchical Control",
       "Embodied Reasoning",
+      "Robot Learning"
+    ],
+    "last_reviewed": "17 Feb 2026"
+  },
+  {
+    "id": 142,
+    "title": "Learning Native Continuation for Action Chunking Flow Policies",
+    "year": "13 Feb 2026",
+    "summary": "Proposes Legato, a training-time continuation method for action-chunked flow-based vision-language-action policies that improves smoothness and reduces multimodal switching at chunk boundaries, yielding faster and more stable real-world manipulation across five tasks.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://lyfeng001.github.io/Legato/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.12978"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.12978"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Action Chunking",
+      "Flow Policies",
       "Robot Learning"
     ],
     "last_reviewed": "17 Feb 2026"
