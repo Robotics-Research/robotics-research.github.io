@@ -3898,5 +3898,40 @@
       "Video Generation"
     ],
     "last_reviewed": "21 Feb 2026"
+  },
+  {
+    "id": 145,
+    "title": "SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control",
+    "year": "11 Nov 2025",
+    "summary": "Introduces SONIC, a humanoid whole-body control approach that scales motion tracking to produce more natural and robust full-body behaviors for real-world humanoid robots.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://nvlabs.github.io/GEAR-SONIC/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2511.07820"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://nvlabs.github.io/GEAR-SONIC/static/pdf/sonic_paper.pdf"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/NVlabs/GR00T-WholeBodyControl"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Whole-Body Control",
+      "Motion Tracking",
+      "Robot Learning"
+    ],
+    "last_reviewed": "24 Feb 2026"
   }
 ]
