@@ -3933,5 +3933,30 @@
       "Robot Learning"
     ],
     "last_reviewed": "24 Feb 2026"
+  },
+  {
+    "id": 146,
+    "title": "EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data",
+    "year": "19 Feb 2026",
+    "summary": "Introduces EgoScale, a human-to-dexterous-manipulation transfer framework that pretrains a vision-language-action policy on over 20k hours of egocentric human video, demonstrating scaling laws and strong real-robot dexterous manipulation gains with minimal robot supervision.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://research.nvidia.com/labs/gear/egoscale/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.16710"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Dexterous Manipulation",
+      "Human-to-Robot Transfer",
+      "Robot Learning"
+    ],
+    "last_reviewed": "25 Feb 2026"
   }
 ]
