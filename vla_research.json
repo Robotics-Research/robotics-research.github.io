@@ -1627,7 +1627,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -3958,5 +3958,40 @@
       "Robot Learning"
     ],
     "last_reviewed": "25 Feb 2026"
+  },
+  {
+    "id": 147,
+    "title": "SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation",
+    "year": "18 Feb 2026",
+    "summary": "Introduces SimToolReal, a sim-to-real reinforcement learning approach that trains one object-centric policy on procedurally generated tool-like primitives to enable strong zero-shot dexterous tool manipulation across diverse real-world tools and tasks without task-specific training.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://simtoolreal.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.16863"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.16863"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/tylerlum/simtoolreal"
+      }
+    ],
+    "tags": [
+      "Dexterous Manipulation",
+      "Tool Manipulation",
+      "Sim-to-Real Reinforcement Learning",
+      "Robot Learning"
+    ],
+    "last_reviewed": "27 Feb 2026"
   }
 ]
