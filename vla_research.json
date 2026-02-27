@@ -3993,5 +3993,40 @@
       "Robot Learning"
     ],
     "last_reviewed": "27 Feb 2026"
+  },
+  {
+    "id": 148,
+    "title": "TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics",
+    "year": "22 Feb 2026",
+    "summary": "Introduces TOPReward, a zero-shot progress estimation and reward framework that uses token likelihoods from vision-language models to provide dense rewards for robotic manipulation without task-specific training.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://topreward.github.io/webpage/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.19313"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.19313"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/TOPReward/TOPReward"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Manipulation",
+      "Reward Modeling",
+      "Zero-Shot Generalization"
+    ],
+    "last_reviewed": "27 Feb 2026"
   }
 ]
