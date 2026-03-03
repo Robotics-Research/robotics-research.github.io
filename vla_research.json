@@ -4128,5 +4128,30 @@
       "Generalist Robots"
     ],
     "last_reviewed": "03 Mar 2026"
+  },
+  {
+    "id": 153,
+    "title": "VLAs with Long and Short-Term Memory",
+    "year": "2026",
+    "summary": "Multi-Scale Embodied Memory (MEM) gives vision-language-action models both long-term and short-term memory, enabling complex tasks lasting longer than ten minutes.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://www.pi.website/research/memory"
+      },
+      {
+        "type": "pdf",
+        "title": "MEM paper (PDF)",
+        "url": "https://www.pi.website/download/Mem.pdf"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Memory",
+      "Long-Horizon Tasks",
+      "Embodied AI"
+    ],
+    "last_reviewed": "03 Mar 2026"
   }
 ]
