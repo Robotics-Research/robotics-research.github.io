@@ -4078,5 +4078,35 @@
       "Tooling"
     ],
     "last_reviewed": "03 Mar 2026"
+  },
+  {
+    "id": 151,
+    "title": "BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation",
+    "year": "10 Jun 2025",
+    "summary": "Introduces BitVLA, a highly efficient 1-bit vision-language-action model for robot manipulation that preserves strong benchmark and real-world performance while substantially reducing memory footprint and inference latency.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Hugging Face model",
+        "url": "https://huggingface.co/lxsy/bitvla-bf16"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2506.07530"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/ustcwhy/BitVLA"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Manipulation",
+      "Model Efficiency",
+      "Quantization"
+    ],
+    "last_reviewed": "03 Mar 2026"
   }
 ]
