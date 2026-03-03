@@ -1627,7 +1627,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -4028,5 +4028,55 @@
       "Zero-Shot Generalization"
     ],
     "last_reviewed": "27 Feb 2026"
+  },
+  {
+    "id": 149,
+    "title": "Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics",
+    "year": "24 Feb 2026",
+    "summary": "Introduces Squint, a visual Soft Actor-Critic method optimized for fast wall-clock training with parallel simulation and distributional critics, achieving rapid convergence on manipulation tasks and sim-to-real transfer to a real SO-101 robot.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://aalmuzairee.github.io/squint/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.21203"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.21203"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Visual Reinforcement Learning",
+      "Sim-to-Real Transfer",
+      "Robot Learning"
+    ],
+    "last_reviewed": "03 Mar 2026"
+  },
+  {
+    "id": 150,
+    "title": "VLAExplain: VLA model interpretability tools",
+    "year": "22 Feb 2026",
+    "summary": "Provides interpretability tooling for vision-language-action models to inspect and better understand model behavior during robotic decision-making workflows.",
+    "sources": [
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/bjrobotnewbie/VLAExplain"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Interpretability",
+      "Model Analysis",
+      "Tooling"
+    ],
+    "last_reviewed": "03 Mar 2026"
   }
 ]
