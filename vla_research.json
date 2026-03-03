@@ -4108,5 +4108,25 @@
       "Quantization"
     ],
     "last_reviewed": "03 Mar 2026"
+  },
+  {
+    "id": 152,
+    "title": "RoboCasa",
+    "year": "2024",
+    "summary": "Large-scale simulation framework for training and benchmarking generalist robots on everyday household tasks, featuring diverse human-centered kitchen environments and demonstration datasets.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://robocasa.ai"
+      }
+    ],
+    "tags": [
+      "Simulation",
+      "Robot Learning",
+      "Benchmarking",
+      "Generalist Robots"
+    ],
+    "last_reviewed": "03 Mar 2026"
   }
 ]
