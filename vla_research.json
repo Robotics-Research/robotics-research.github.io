@@ -1627,7 +1627,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -4153,5 +4153,25 @@
       "Embodied AI"
     ],
     "last_reviewed": "03 Mar 2026"
+  },
+  {
+    "id": 154,
+    "title": "Fast-FoundationStereo",
+    "year": "2026",
+    "summary": "NVIDIA project page for Fast-FoundationStereo, a stereo depth estimation effort focused on fast, foundation-style performance.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://nvlabs.github.io/Fast-FoundationStereo/"
+      }
+    ],
+    "tags": [
+      "Stereo Vision",
+      "Depth Estimation",
+      "Computer Vision",
+      "NVIDIA Research"
+    ],
+    "last_reviewed": "07 Mar 2026"
   }
 ]
