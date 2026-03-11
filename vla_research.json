@@ -4190,5 +4190,25 @@
       "Vision-Language-Action"
     ],
     "last_reviewed": "09 Mar 2026"
+  },
+  {
+    "id": 156,
+    "title": "Causal Video Models Are Data-Efficient Robot Policy Learners",
+    "year": "March 2026",
+    "summary": "Rhoda AI introduces Direct Video-Action (DVA), a causal video-modeling approach that reformulates robot policies as video generation to improve data efficiency, long-context memory, and one-shot task learning for generalist robotics.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://www.rhoda.ai/research/direct-video-action"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Causal Video Model",
+      "Robot Policy Learning",
+      "Generalist Robotics"
+    ],
+    "last_reviewed": "11 Mar 2026"
   }
 ]
