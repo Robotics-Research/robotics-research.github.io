@@ -4210,5 +4210,22 @@
       "Generalist Robotics"
     ],
     "last_reviewed": "11 Mar 2026"
+  },
+  {
+    "id": 157,
+    "title": "Dit4Dit",
+    "year": "2026",
+    "summary": "Dit4Dit project website.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://dit4dit.github.io"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action"
+    ],
+    "last_reviewed": "12 Mar 2026"
   }
 ]
