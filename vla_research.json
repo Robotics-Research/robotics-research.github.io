@@ -4227,5 +4227,22 @@
       "Vision-Language-Action"
     ],
     "last_reviewed": "12 Mar 2026"
+  },
+  {
+    "id": 158,
+    "title": "LATENT",
+    "year": "2026",
+    "summary": "LATENT project website.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://zzk273.github.io/LATENT/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action"
+    ],
+    "last_reviewed": "16 Mar 2026"
   }
 ]
