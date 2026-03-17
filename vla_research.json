@@ -4244,5 +4244,30 @@
       "Vision-Language-Action"
     ],
     "last_reviewed": "16 Mar 2026"
+  },
+  {
+    "id": 159,
+    "title": "Kimodo: Scaling Controllable Human Motion Generation",
+    "year": "2026",
+    "summary": "Kinematic motion diffusion model trained on large-scale optical motion-capture data to generate high-quality controllable 3D human and robot motions.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://research.nvidia.com/labs/sil/projects/kimodo/"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/nv-tlabs/kimodo"
+      }
+    ],
+    "tags": [
+      "Robot Learning",
+      "Motion Generation",
+      "Diffusion Model",
+      "NVIDIA Research"
+    ],
+    "last_reviewed": "17 Mar 2026"
   }
 ]
