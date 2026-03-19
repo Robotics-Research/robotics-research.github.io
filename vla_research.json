@@ -4294,5 +4294,45 @@
       "Resource"
     ],
     "last_reviewed": "18 Mar 2026"
+  },
+  {
+    "id": 161,
+    "title": "RobotArena ∞: Scalable Robot Benchmarking via Real-to-Sim Translation",
+    "year": "2025",
+    "summary": "Continuously evolving, reproducible benchmark for evaluating real-world-trained robot manipulation policies via real-to-sim translation and human feedback.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://robotarenainf.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv paper",
+        "url": "https://arxiv.org/abs/2510.23571"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2510.23571"
+      },
+      {
+        "type": "code",
+        "title": "Benchmark code",
+        "url": "https://github.com/offjangir/RobotArena"
+      },
+      {
+        "type": "website",
+        "title": "Leaderboard",
+        "url": "https://robotarenainf.zhangyidi.tech/"
+      }
+    ],
+    "tags": [
+      "Robot Benchmarking",
+      "Vision-Language-Action",
+      "Real-to-Sim",
+      "Robot Manipulation"
+    ],
+    "last_reviewed": "19 Mar 2026"
   }
 ]
