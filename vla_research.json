@@ -4334,5 +4334,30 @@
       "Robot Manipulation"
     ],
     "last_reviewed": "19 Mar 2026"
+  },
+  {
+    "id": 162,
+    "title": "Precise Manipulation with Efficient Online RL",
+    "year": "19 Mar 2026",
+    "summary": "Physical Intelligence introduces RL Tokens (RLT), a compact interface between a frozen vision-language-action model and a lightweight online reinforcement learning policy that quickly improves precision-critical manipulation stages such as screwdriver alignment, zip-tie fastening, ethernet insertion, and charger plugging.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://www.pi.website/research/rlt"
+      },
+      {
+        "type": "pdf",
+        "title": "RLT paper (PDF)",
+        "url": "https://www.pi.website/download/RLT.pdf"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Reinforcement Learning",
+      "Robot Manipulation",
+      "Online Adaptation"
+    ],
+    "last_reviewed": "19 Mar 2026"
   }
 ]
