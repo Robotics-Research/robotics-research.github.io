@@ -4269,5 +4269,30 @@
       "NVIDIA Research"
     ],
     "last_reviewed": "17 Mar 2026"
+  },
+  {
+    "id": 160,
+    "title": "Humanoid Atlas",
+    "year": "15 Mar 2026",
+    "summary": "Interactive atlas for tracking humanoid robot OEMs, suppliers, VLA models, shipments, and supply-chain dependencies across the humanoid ecosystem.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Humanoid Atlas",
+        "url": "https://www.humanoids.fyi/"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/kingjulio8238/humanoid-atlas"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Supply Chain",
+      "Landscape",
+      "Resource"
+    ],
+    "last_reviewed": "18 Mar 2026"
   }
 ]
