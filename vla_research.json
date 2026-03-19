@@ -4269,5 +4269,30 @@
       "NVIDIA Research"
     ],
     "last_reviewed": "17 Mar 2026"
+  },
+  {
+    "id": 160,
+    "title": "RobotArena \u221e: Scalable Robot Benchmarking via Real-to-Sim Translation",
+    "year": "2025",
+    "summary": "RobotArena \u221e introduces a scalable benchmark that turns real-world robot demonstrations into simulated environments for evaluating VLA policies with automated VLM scoring and crowd-sourced human preferences, while systematically perturbing scenes to measure robustness.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://robotarenainf.github.io"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv paper",
+        "url": "https://arxiv.org/abs/2510.23571"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Benchmarking",
+      "Real-to-Sim",
+      "Robot Evaluation"
+    ],
+    "last_reviewed": "19 Mar 2026"
   }
 ]
