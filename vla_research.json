@@ -4359,5 +4359,30 @@
       "Online Adaptation"
     ],
     "last_reviewed": "19 Mar 2026"
+  },
+  {
+    "id": 163,
+    "title": "Dynamic Deception: When Pedestrians Team Up to Fool Autonomous Cars",
+    "year": "20 Feb 2026",
+    "summary": "Presents a system-level physical adversarial attack in CARLA where two moving pedestrians coordinate adversarial patches over time, causing a state-of-the-art autonomous driving agent to perform full vehicle stops in up to 50% of runs while single-pedestrian and static-collusion variants fail.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2602.18079"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2602.18079"
+      }
+    ],
+    "tags": [
+      "Physical Adversarial",
+      "Autonomous Driving",
+      "Adversarial Patch",
+      "Pedestrian Coordination"
+    ],
+    "last_reviewed": "22 Mar 2026"
   }
 ]
