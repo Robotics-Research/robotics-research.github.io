@@ -4401,6 +4401,23 @@
       "Vision-Language-Action"
     ],
     "last_reviewed": "25 Mar 2026"
-  }
+  },
 
+  {
+    "id": 165,
+    "title": "CAPGym",
+    "year": "2026",
+    "summary": "CAPGym project website.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://capgym.github.io"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action"
+    ],
+    "last_reviewed": "02 Apr 2026"
+  }
 ]
