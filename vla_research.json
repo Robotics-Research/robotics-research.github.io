@@ -4402,7 +4402,6 @@
     ],
     "last_reviewed": "25 Mar 2026"
   },
-
   {
     "id": 165,
     "title": "CAPGym",
@@ -4419,5 +4418,23 @@
       "Vision-Language-Action"
     ],
     "last_reviewed": "02 Apr 2026"
+  },
+  {
+    "id": 166,
+    "title": "UnrealRoboticsLab",
+    "year": "2026",
+    "summary": "UnrealRoboticsLab GitHub repository.",
+    "sources": [
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/URLab-Sim/UnrealRoboticsLab"
+      }
+    ],
+    "tags": [
+      "Simulation",
+      "Robotics"
+    ],
+    "last_reviewed": "08 Apr 2026"
   }
 ]
