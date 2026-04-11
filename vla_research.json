@@ -4297,7 +4297,7 @@
   },
   {
     "id": 161,
-    "title": "RobotArena ∞: Scalable Robot Benchmarking via Real-to-Sim Translation",
+    "title": "RobotArena \u221e: Scalable Robot Benchmarking via Real-to-Sim Translation",
     "year": "2025",
     "summary": "Continuously evolving, reproducible benchmark for evaluating real-world-trained robot manipulation policies via real-to-sim translation and human feedback.",
     "sources": [
@@ -4436,5 +4436,22 @@
       "Robotics"
     ],
     "last_reviewed": "08 Apr 2026"
+  },
+  {
+    "id": 167,
+    "title": "sim1.github.io",
+    "year": "2026",
+    "summary": "sim1.github.io project website.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://internrobotics.github.io/sim1.github.io/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action"
+    ],
+    "last_reviewed": "11 Apr 2026"
   }
 ]
