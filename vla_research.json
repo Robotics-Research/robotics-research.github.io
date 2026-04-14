@@ -4453,5 +4453,22 @@
       "Vision-Language-Action"
     ],
     "last_reviewed": "11 Apr 2026"
+  },
+  {
+    "id": 168,
+    "title": "Gemini Robotics",
+    "year": "2026",
+    "summary": "Google DeepMind model page for Gemini Robotics.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://deepmind.google/models/gemini-robotics/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action"
+    ],
+    "last_reviewed": "14 Apr 2026"
   }
 ]
