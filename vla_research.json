@@ -4530,5 +4530,35 @@
       "Vision-Language-Action"
     ],
     "last_reviewed": "23 Apr 2026"
+  },
+  {
+    "id": 172,
+    "title": "ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models",
+    "year": "16 Jan 2026",
+    "summary": "Introduces ACoT-VLA, a vision-language-action architecture that reasons directly in action space via explicit and implicit action reasoners to improve grounded policy learning for manipulation in real and simulated environments.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2601.11404"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2601.11404"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/AgibotTech/ACoT-VLA"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Manipulation",
+      "Action Reasoning",
+      "Foundation Models"
+    ],
+    "last_reviewed": "24 Apr 2026"
   }
 ]
