@@ -4560,5 +4560,30 @@
       "Foundation Models"
     ],
     "last_reviewed": "24 Apr 2026"
+  },
+  {
+    "id": 173,
+    "title": "From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges",
+    "year": "23 Apr 2026",
+    "summary": "Introduces ResVLA, a generative vision-language-action policy that shifts from generation-from-noise to refinement-from-intent by decomposing control into low-frequency intent anchors and high-frequency residual dynamics, improving robustness and convergence in simulation and real-robot experiments.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2604.21391"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2604.21391"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Manipulation",
+      "Diffusion Policy",
+      "Embodied AI"
+    ],
+    "last_reviewed": "26 Apr 2026"
   }
 ]
