@@ -1627,7 +1627,7 @@
     "id": 62,
     "title": "On the Vulnerability of LLM/VLM-Controlled Robotics",
     "year": "15 Feb 2024",
-    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14\u201322% drops in task success.",
+    "summary": "Characterizes how small instruction and perception perturbations degrade LLM/VLM robot controllers, offering perturbation strategies that expose 14–22% drops in task success.",
     "sources": [
       {
         "type": "paper",
@@ -4297,7 +4297,7 @@
   },
   {
     "id": 161,
-    "title": "RobotArena \u221e: Scalable Robot Benchmarking via Real-to-Sim Translation",
+    "title": "RobotArena ∞: Scalable Robot Benchmarking via Real-to-Sim Translation",
     "year": "2025",
     "summary": "Continuously evolving, reproducible benchmark for evaluating real-world-trained robot manipulation policies via real-to-sim translation and human feedback.",
     "sources": [
@@ -4473,9 +4473,9 @@
   },
   {
     "id": 169,
-    "title": "\u03c00.7: a Steerable Model with Emergent Capabilities",
+    "title": "π0.7: a Steerable Model with Emergent Capabilities",
     "year": "16 Apr 2026",
-    "summary": "Physical Intelligence introduces \u03c00.7, a steerable general-purpose robotic foundation model showing strong out-of-the-box dexterous performance and early compositional generalization across tasks, instructions, scenes, and robot embodiments.",
+    "summary": "Physical Intelligence introduces π0.7, a steerable general-purpose robotic foundation model showing strong out-of-the-box dexterous performance and early compositional generalization across tasks, instructions, scenes, and robot embodiments.",
     "sources": [
       {
         "type": "website",
@@ -4484,7 +4484,7 @@
       },
       {
         "type": "pdf",
-        "title": "\u03c00.7 paper (PDF)",
+        "title": "π0.7 paper (PDF)",
         "url": "https://www.pi.website/download/pi07.pdf"
       }
     ],
@@ -4585,5 +4585,22 @@
       "Embodied AI"
     ],
     "last_reviewed": "26 Apr 2026"
+  },
+  {
+    "id": 174,
+    "title": "DeLock",
+    "year": "2026",
+    "summary": "DeLock project website.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://suninghuang19.github.io/delock_page/"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action"
+    ],
+    "last_reviewed": "01 May 2026"
   }
 ]
