@@ -4619,5 +4619,29 @@
       "Vision-Language-Action"
     ],
     "last_reviewed": "03 May 2026"
+  },
+  {
+    "id": 176,
+    "title": "Jailbreaking Vision-Language Models Through the Visual Modality",
+    "year": "01 May 2026",
+    "summary": "Presents four visual-modality jailbreak attacks against frontier vision-language models, showing that harmful intent can bypass text-centric safeguards via visual ciphers, benign substitutions, edited text-in-image context, and visual analogies.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2605.00583v1"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2605.00583v1"
+      }
+    ],
+    "tags": [
+      "Vision-Language Models",
+      "AI Safety",
+      "Adversarial Attacks"
+    ],
+    "last_reviewed": "05 May 2026"
   }
 ]
