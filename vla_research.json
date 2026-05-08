@@ -4643,5 +4643,26 @@
       "Adversarial Attacks"
     ],
     "last_reviewed": "05 May 2026"
+  },
+  {
+    "id": 177,
+    "title": "ETC Robotics - Robot Vision Redefined",
+    "year": "2026",
+    "summary": "Et Cetera Robotics provides passive situational awareness for drones and small, fast objects in cluttered low-light environments, combining ETC cameras with AI-based tracking for counter-UAS applications.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "ETC Robotics",
+        "url": "https://www.etcrobotics.com/"
+      }
+    ],
+    "tags": [
+      "Robot Vision",
+      "Drone Tracking",
+      "Counter UAS",
+      "Passive Sensing",
+      "Low-Light Vision"
+    ],
+    "last_reviewed": "08 May 2026"
   }
 ]
