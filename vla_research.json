@@ -4664,5 +4664,46 @@
       "Low-Light Vision"
     ],
     "last_reviewed": "08 May 2026"
+  },
+  {
+    "id": 178,
+    "title": "Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models",
+    "year": "07 May 2026",
+    "summary": "Evaluates reconstruction-aligned and semantics-aligned latent spaces for action-conditioned latent diffusion world models in robotics, showing that semantic encoders such as V-JEPA 2.1, Web-DINO, and SigLIP 2 better preserve policy-relevant structure across planning, latent-quality, downstream VLA, and robustness metrics than visual fidelity alone would suggest.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://hskalin.github.io/semantic-wm/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2605.06388"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2605.06388"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/chandar-lab/semantic-wm"
+      },
+      {
+        "type": "model",
+        "title": "Hugging Face",
+        "url": "https://huggingface.co/Nilaksh404/semantic-wm"
+      }
+    ],
+    "tags": [
+      "World Models",
+      "Latent Diffusion",
+      "Robot Control",
+      "Vision-Language-Action",
+      "Semantic Representation"
+    ],
+    "last_reviewed": "14 May 2026"
   }
 ]
