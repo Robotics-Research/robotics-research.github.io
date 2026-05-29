@@ -4705,5 +4705,51 @@
       "Semantic Representation"
     ],
     "last_reviewed": "14 May 2026"
+  },
+  {
+    "id": 179,
+    "title": "Igniting VLMs toward the Embodied Space",
+    "year": "15 Sep 2025",
+    "summary": "Introduces WALL-OSS, an end-to-end embodied foundation model that uses large-scale multimodal pretraining and a unified cross-level chain-of-thought curriculum to improve embodiment-aware vision-language understanding, language-action association, and long-horizon manipulation.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://x2robot.com/en/research/68bc2cde8497d7f238dde690"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2509.11766"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2509.11766"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/X-Square-Robot/wall-x"
+      },
+      {
+        "type": "model",
+        "title": "WALL-OSS Flow model",
+        "url": "https://huggingface.co/x-square-robot/wall-oss-flow"
+      },
+      {
+        "type": "model",
+        "title": "WALL-OSS Fast model",
+        "url": "https://huggingface.co/x-square-robot/wall-oss-fast"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Embodied Foundation Models",
+      "Robot Manipulation",
+      "Multimodal Pretraining",
+      "Chain-of-Thought"
+    ],
+    "last_reviewed": "29 May 2026"
   }
 ]
