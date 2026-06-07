@@ -4751,5 +4751,47 @@
       "Chain-of-Thought"
     ],
     "last_reviewed": "29 May 2026"
+  },
+  {
+    "id": 180,
+    "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
+    "year": "28 May 2026",
+    "summary": "Introduces Qwen-VLA, a unified embodied foundation model that extends Qwen's vision-language stack to continuous action and trajectory generation with a DiT-based action decoder, using embodiment-aware prompt conditioning and a shared action-and-trajectory prediction framework for manipulation, navigation, and trajectory prediction across robot embodiments.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2605.30280"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2605.30280"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/QwenLM/Qwen-VLA"
+      },
+      {
+        "type": "article",
+        "title": "Qwen blog",
+        "url": "https://qwen.ai/blog?id=qwenvla"
+      },
+      {
+        "type": "video",
+        "title": "Demo",
+        "url": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen-VLA/demo.mp4"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Embodied Foundation Models",
+      "Robot Manipulation",
+      "Navigation",
+      "Trajectory Prediction",
+      "Cross-Embodiment Generalization"
+    ],
+    "last_reviewed": "30 May 2026"
   }
 ]
