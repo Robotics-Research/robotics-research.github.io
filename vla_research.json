@@ -4820,5 +4820,27 @@
       "AI Safety"
     ],
     "last_reviewed": "11 Jun 2026"
+  },
+  {
+    "id": 182,
+    "title": "An Overview of Modern AI Robotics from First Principles",
+    "year": "10 Jun 2026",
+    "summary": "A first-principles primer on modern robot learning that frames robot policies as observation-to-action functions while emphasizing physical-world inference time, VLA architectures, action chunking, edge-versus-cloud latency budgets, the robotics data bottleneck, training ladders, and self-improving robot learning loops.",
+    "sources": [
+      {
+        "type": "article",
+        "title": "Interlatent blog",
+        "url": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Learning",
+      "Physical AI",
+      "Action Chunking",
+      "Latency",
+      "Self-Improving Robots"
+    ],
+    "last_reviewed": "11 Jun 2026"
   }
 ]
