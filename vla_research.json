@@ -4793,5 +4793,32 @@
       "Cross-Embodiment Generalization"
     ],
     "last_reviewed": "30 May 2026"
+  },
+  {
+    "id": 181,
+    "title": "ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving",
+    "year": "27 May 2026",
+    "summary": "Introduces ReasonBreak, a black-box evaluation of reasoning-enabled VLA models for autonomous driving under realistic textual input corruptions, showing large reasoning and trajectory-manipulation attack success rates in closed-loop simulation and proposing reasoning-aware safety metrics and a benchmark for studying reasoning-trajectory vulnerabilities.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2605.29114"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2605.29114"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Autonomous Driving",
+      "Adversarial Attacks",
+      "Reasoning Models",
+      "Trajectory Prediction",
+      "AI Safety"
+    ],
+    "last_reviewed": "11 Jun 2026"
   }
 ]
