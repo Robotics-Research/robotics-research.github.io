@@ -4820,5 +4820,41 @@
       "AI Safety"
     ],
     "last_reviewed": "11 Jun 2026"
+  },
+  {
+    "id": 182,
+    "title": "BadWorld: Adversarial Attacks on World Models",
+    "year": "15 Jun 2026",
+    "summary": "Introduces BadWorld, a label-free adversarial attack framework for visual world models that perturbs a single context image to induce catastrophic degradation in action-conditioned future rollouts across unseen user controls, exposing robustness risks in autoregressive world models.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2606.16519"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2606.16519"
+      },
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://linghuiishen.github.io/BadWorld/"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/LinghuiiShen/BadWorld"
+      }
+    ],
+    "tags": [
+      "World Models",
+      "Adversarial Attacks",
+      "Visual World Models",
+      "Action-Conditioned Rollouts",
+      "AI Safety"
+    ],
+    "last_reviewed": "16 Jun 2026"
   }
 ]
