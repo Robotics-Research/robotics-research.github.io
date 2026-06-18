@@ -4856,5 +4856,27 @@
       "AI Safety"
     ],
     "last_reviewed": "16 Jun 2026"
+  },
+  {
+    "id": 183,
+    "title": "An Overview of Modern AI Robotics from First Principles",
+    "year": "10 Jun 2026",
+    "summary": "A first-principles primer on modern robot learning that frames robot policies as observation-to-action functions and explains how physical-world latency constraints shape Vision-Language-Action architectures, action chunking, edge-versus-cloud deployment, data collection bottlenecks, training stages, and self-improving robot systems.",
+    "sources": [
+      {
+        "type": "article",
+        "title": "Interlatent blog",
+        "url": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Physical AI",
+      "Robot Learning",
+      "Action Chunking",
+      "Embodied Foundation Models",
+      "Reinforcement Learning"
+    ],
+    "last_reviewed": "18 Jun 2026"
   }
 ]
