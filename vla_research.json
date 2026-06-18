@@ -4878,5 +4878,32 @@
       "Reinforcement Learning"
     ],
     "last_reviewed": "18 Jun 2026"
+  },
+  {
+    "id": 184,
+    "title": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation",
+    "year": "17 Jun 2026",
+    "summary": "Introduces SC3-Eval, a self-consistent video generation approach for evaluating robot foundation models by adapting a pre-trained video foundation model with forward-inverse dynamics, cross-view, and test-time consistency to simulate policy rollouts and predict real-world VLA policy performance.",
+    "sources": [
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2606.18610"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2606.18610"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Robot Foundation Models",
+      "World Models",
+      "Video Generation",
+      "Policy Evaluation",
+      "AI Safety"
+    ],
+    "last_reviewed": "18 Jun 2026"
   }
 ]
