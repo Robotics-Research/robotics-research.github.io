@@ -4905,5 +4905,26 @@
       "AI Safety"
     ],
     "last_reviewed": "18 Jun 2026"
+  },
+  {
+    "id": 185,
+    "title": "Binh's LeRobot Notes",
+    "year": "25 Jun 2026",
+    "summary": "A survey of LeRobot's visuomotor policies, inference regimes, and reward models, collecting practical notes on robot learning architectures and deployment considerations for the LeRobot ecosystem.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Binh's LeRobot Notes",
+        "url": "https://lerobot.binhph.am/"
+      }
+    ],
+    "tags": [
+      "LeRobot",
+      "Vision-Language-Action",
+      "Visuomotor Policies",
+      "Robot Learning",
+      "Reward Models"
+    ],
+    "last_reviewed": "25 Jun 2026"
   }
 ]
