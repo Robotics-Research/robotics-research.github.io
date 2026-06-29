@@ -4958,5 +4958,27 @@
       "Behavioral Cloning"
     ],
     "last_reviewed": "29 Jun 2026"
+  },
+  {
+    "id": 187,
+    "title": "Flexion Reflect v1.0 - The Path Towards Long-Horizon Autonomous Humanoid Work",
+    "year": "29 Jun 2026",
+    "summary": "Introduces Reflect v1.0, Flexion's robotics intelligence platform for long-horizon autonomous humanoid work, combining a custom VLM mission controller, language-grounded semantic mapping, VLA and reinforcement-learning motion skills, whole-body control, recovery behaviors, and a production runtime for autonomous multi-step missions in human environments.",
+    "sources": [
+      {
+        "type": "article",
+        "title": "Flexion Reflect v1.0",
+        "url": "https://flexion.ai/news/flexion-reflect-v1.0"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Long-Horizon Autonomy",
+      "Vision-Language-Action",
+      "Vision-Language Models",
+      "Reinforcement Learning",
+      "Whole-Body Control"
+    ],
+    "last_reviewed": "29 Jun 2026"
   }
 ]
