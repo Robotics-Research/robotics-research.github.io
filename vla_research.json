@@ -4926,5 +4926,37 @@
       "Reward Models"
     ],
     "last_reviewed": "25 Jun 2026"
+  },
+  {
+    "id": 186,
+    "title": "NAC: Neural Action Codec for Vision-Language-Action Models",
+    "year": "2026",
+    "summary": "Introduces NAC, a learned action tokenizer for vision-language-action models that treats robot action chunks as multi-channel 1D signals and compresses them with a multi-scale RVQGAN audio-codec architecture, achieving lower reconstruction error and higher manipulation success than binning, FAST, and prior VQ tokenizers.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "Project page",
+        "url": "https://www.ahadjawaid.com/nac"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://www.ahadjawaid.com/nac/Neural_Action_Codec.pdf"
+      },
+      {
+        "type": "code",
+        "title": "GitHub",
+        "url": "https://github.com/ahadjawaid/nac"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Action Tokenization",
+      "Robot Learning",
+      "Neural Audio Codecs",
+      "Residual Vector Quantization",
+      "Behavioral Cloning"
+    ],
+    "last_reviewed": "29 Jun 2026"
   }
 ]
