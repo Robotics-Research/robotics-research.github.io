@@ -4980,5 +4980,27 @@
       "Whole-Body Control"
     ],
     "last_reviewed": "29 Jun 2026"
+  },
+  {
+    "id": 188,
+    "title": "Robotics Bible",
+    "year": "06 Jul 2026",
+    "summary": "A from-scratch robotics guide covering robot anatomy, spatial math, kinematics, control, estimation, motion planning, reinforcement learning, perception, vision-language-action models, learning from demonstration, world models, simulation, manipulation, humanoids, deployment, and safety.",
+    "sources": [
+      {
+        "type": "article",
+        "title": "Robotics Bible",
+        "url": "https://www.arjunvirk.com/writing/robotics-guide"
+      }
+    ],
+    "tags": [
+      "Robotics",
+      "Vision-Language-Action",
+      "Robot Learning",
+      "Reinforcement Learning",
+      "Motion Planning",
+      "Humanoid Robotics"
+    ],
+    "last_reviewed": "18 Jul 2026"
   }
 ]
