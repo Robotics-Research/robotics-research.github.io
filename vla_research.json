@@ -5002,5 +5002,32 @@
       "Humanoid Robotics"
     ],
     "last_reviewed": "18 Jul 2026"
+  },
+  {
+    "id": 189,
+    "title": "Gemini Robotics 2: Safety Evaluations",
+    "year": "29 Jul 2026",
+    "summary": "Evaluates Gemini Robotics Embodied Reasoning 2 on ASIMOV-Agentic, a benchmark for collaborative robot safety and uncertainty resolution covering unsafe-task refusal, human-proximity monitoring, VLA feasibility assessment, ambiguity handling, and reactive safety interventions.",
+    "sources": [
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://storage.googleapis.com/deepmind-media/gemini-robotics/Gemini-Robotics-2-Safety.pdf"
+      },
+      {
+        "type": "dataset",
+        "title": "ASIMOV-Agentic dataset",
+        "url": "https://huggingface.co/datasets/google/asimov_agentic"
+      }
+    ],
+    "tags": [
+      "Gemini Robotics",
+      "Vision-Language-Action",
+      "Robot Safety",
+      "Safety Evaluation",
+      "Human-Robot Interaction",
+      "Benchmark"
+    ],
+    "last_reviewed": "02 Aug 2026"
   }
 ]
