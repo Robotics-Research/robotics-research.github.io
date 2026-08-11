@@ -5029,5 +5029,27 @@
       "Benchmark"
     ],
     "last_reviewed": "02 Aug 2026"
+  },
+  {
+    "id": 190,
+    "title": "Dyna-2: A 1-Million-Hour Scaling Law for World-Action Models",
+    "year": "Aug 2026",
+    "summary": "Introduces Dyna-2, a world-action model pre-trained on more than one million hours of human video, and demonstrates scaling laws that transfer from human-video evaluations to robot manipulation, enabling zero-shot action generation and improved downstream robot learning.",
+    "sources": [
+      {
+        "type": "article",
+        "title": "Dyna-2 research page",
+        "url": "https://www.dyna.co/dyna-2"
+      }
+    ],
+    "tags": [
+      "World-Action Models",
+      "Robot Learning",
+      "Video Pre-training",
+      "Scaling Laws",
+      "Zero-Shot Policies",
+      "Robot Manipulation"
+    ],
+    "last_reviewed": "11 Aug 2026"
   }
 ]
