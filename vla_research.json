@@ -5051,5 +5051,37 @@
       "Robot Manipulation"
     ],
     "last_reviewed": "11 Aug 2026"
+  },
+  {
+    "id": 191,
+    "title": "G0.5: One Autoregressive Stream for Robot Reasoning and Action",
+    "year": "12 Aug 2026",
+    "summary": "Introduces G0.5, a pretrained autoregressive vision-language-action model that uses a single transformer decoder and objective to generate both reasoning and action tokens, supported by a cross-embodiment action tokenizer, native chain-of-thought, and visual memory for multi-second history.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "G0.5 project page",
+        "url": "https://opengalaxea.github.io/G05/"
+      },
+      {
+        "type": "paper",
+        "title": "arXiv",
+        "url": "https://arxiv.org/abs/2608.11739"
+      },
+      {
+        "type": "pdf",
+        "title": "PDF",
+        "url": "https://arxiv.org/pdf/2608.11739"
+      }
+    ],
+    "tags": [
+      "Vision-Language-Action",
+      "Autoregressive Models",
+      "Robot Reasoning",
+      "Chain-of-Thought",
+      "Action Tokenization",
+      "Cross-Embodiment Learning"
+    ],
+    "last_reviewed": "14 Aug 2026"
   }
 ]
