@@ -5051,5 +5051,32 @@
       "Robot Manipulation"
     ],
     "last_reviewed": "11 Aug 2026"
+  },
+  {
+    "id": 191,
+    "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
+    "year": "18 Sep 2026",
+    "summary": "Introduces RoboHarm, a physical robot safety benchmark that tests whether frontier robot policies refuse five harmful instructions. Across 300 trials with three policies controlling the same bimanual robot, the evaluation measures safety refusals, attempted actions, and harmful task completion.",
+    "sources": [
+      {
+        "type": "article",
+        "title": "RoboHarm evaluation",
+        "url": "https://robocurve.org/roboharm/"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/robocurve/roboharm"
+      }
+    ],
+    "tags": [
+      "Robot Safety",
+      "Safety Evaluation",
+      "Vision-Language-Action",
+      "Harmful Instruction Refusal",
+      "Benchmark",
+      "Embodied AI"
+    ],
+    "last_reviewed": "19 Sep 2026"
   }
 ]
