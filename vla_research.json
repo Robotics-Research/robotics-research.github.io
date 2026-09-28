@@ -5078,5 +5078,32 @@
       "Embodied AI"
     ],
     "last_reviewed": "19 Sep 2026"
+  },
+  {
+    "id": 192,
+    "title": "HomeBody: A Humanoid That Explores, Remembers, and Acts on Its Own",
+    "year": "Sep 2026",
+    "summary": "Introduces HomeBody, a humanoid autonomy system that enables frontier vision-language models to orchestrate reusable motor skills directly. Persistent spatial memory, Real2Sim reconstruction, and composable navigation and manipulation skills allow a Unitree G1 to complete long-horizon tasks in an unseen kitchen without environment-specific training or additional policy learning.",
+    "sources": [
+      {
+        "type": "website",
+        "title": "HomeBody project page",
+        "url": "https://tml.stanford.edu/homebody/"
+      },
+      {
+        "type": "code",
+        "title": "Source code",
+        "url": "https://github.com/Stanford-TML/homebody"
+      }
+    ],
+    "tags": [
+      "Humanoid Robotics",
+      "Vision-Language Models",
+      "Long-Horizon Autonomy",
+      "Spatial Memory",
+      "Real2Sim",
+      "Robot Manipulation"
+    ],
+    "last_reviewed": "28 Sep 2026"
   }
 ]
